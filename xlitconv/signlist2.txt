@@ -1,0 +1,778 @@
+A,a,dur<sub>5</sub>,duru<sub>5</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/A.png'/>
+A.AN,am<sub>3</sub>,em<sub>x</sub>,&#x0161;e&#x011D;<sub>3</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/A.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/AN.png'/>
+A.EDIN.LAL,ummud	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/A.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/EDIN.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/LAL.png'/>
+A.HA.TAR.DU,girim<sub>3</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/A.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/HA.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/TAR.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/DU.png'/>
+A.IGI,er<sub>2</sub>,&#x0161;e<sub>x</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/A.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/IGI.png'/>
+A.KA,ugu<sub>2</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/A.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/KA.png'/>
+A.KAL,illu	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/A.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/KAL.png'/>
+A.LAGAB&times;A,buni&#x011D;<sub>x</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/A.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/LAGAB_TIMES_A.png'/>
+A.LAGAB&times;HAL,A.ENGUR,id<sub>2</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/A.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/LAGAB_TIMES_HAL.png'/>
+A.LAGAB&times;KUL,A.ESIR<sub>2</sub>,esir	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/A.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/LAGAB_TIMES_KUL.png'/>
+A.MU&#x0160;<sub>3</sub>.DI,sed<sub>5</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/A.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/MUSH3.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/DI.png'/>
+A.MU&#x0160;<sub>3</sub>&times;A.DI,sed<sub>x</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/A.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/MUSH3_TIMES_A.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/DI.png'/>
+A.PA.GISAL.PAD.SI.A,A.PA.GISAL.PAD.DIR,addir	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/A.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/PA.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/GISAL.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/PAD.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/SI.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/A.png'/>
+A.SU,aktum	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/A.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/SU.png'/>
+A.SUD,ka&#x0161;bir<sub>x</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/A.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/SUD.png'/>
+A.&#x0160;U.NAGA,tu<sub>17</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/A.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/SHU.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/NAGA.png'/>
+A.TIR,e&#x0161;a	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/A.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/TIR.png'/>
+A.TU.GABA.LI&#x0160;,asal<sub>2</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/A.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/TU.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/GABA.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/LISH.png'/>
+A&times;HA,ZA&#x1E2A;<sub>3</sub>,sa&#x1E2B;<sub>7</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/A_TIMES_HA.png'/>
+A<sub>2</sub>,a<sub>2</sub>,ed,et,id,it,i&#x1E6D;,te<sub>8</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/A2.png'/>
+A<sub>2</sub>.KAL,usu	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/A2.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/KAL.png'/>
+A<sub>2</sub>.MU&#x0160;<sub>3</sub>,a&#x0161;kud<sub>2</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/A2.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/MUSH3.png'/>
+A<sub>2</sub>.MU&#x0160;<sub>3</sub>gunu,A<sub>2</sub>.MU&#x0160;<sub>2</sub>,a&#x0161;kud	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/A2.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/MUSH3_GUNU.png'/>
+AB,ab,aba,ap,e&#x0161;<sub>3</sub>,iri<sub>12</sub>,is<sub>3</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/AB.png'/>
+ABgunu,UNUG,ab<sub>4</sub>,aba<sub>4</sub>,gun<sub>4</sub>,iri<sub>11</sub>,unu,unug	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/AB_GUNU.png'/>
+AB.HAgunu,giraba	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/AB.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/HA_GUNU.png'/>
+AB&times;GAL,URUGAL,irigal	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/AB_TIMES_GAL.png'/>
+AB&times;HA,NINA,agarin<sub>x</sub>,nan&#x0161;e,ni&#x011D;in<sub>6</sub>,sirara	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/AB_TIMES_HA.png'/>
+AB<sub>2</sub>,ab<sub>2</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/AB2.png'/>
+AB<sub>2</sub>.KU,unud	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/AB2.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/KU.png'/>
+AB<sub>2</sub>.LU,utul<sub>10</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/AB2.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/LU.png'/>
+AB<sub>2</sub>.NUN.ME.DU,abrig<sub>2</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/AB2.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/NUN.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/ME.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/DU.png'/>
+AB<sub>2</sub>.TUG<sub>2</sub>,sumun<sub>x</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/AB2.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/TUG2.png'/>
+AB<sub>2</sub>&times;GAN<sub>2</sub>tenu,&#x0161;em<sub>5</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/AB2_TIMES_GAN2_TENU.png'/>
+AB<sub>2</sub>&times;&#x0160;A<sub>3</sub>,LIBI&#x0160;,lipi&#x0161;,&#x0161;em<sub>3</sub>,ub<sub>3</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/AB2_TIMES_SHA3.png'/>
+AD,ad,at	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/AD.png'/>
+AK,AG,ag,ak,&#x0161;a<sub>5</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/AK.png'/>
+AK&times;ERIN<sub>2</sub>,ME<sub>3</sub>,me<sub>3</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/AK_TIMES_ERIN2.png'/>
+AL,al	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/AL.png'/>
+ALAN,ALAM,alan	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/ALAN.png'/>
+AMAR,amar,mar<sub>2</sub>,zur	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/AMAR.png'/>
+AMAR.UD,marduk	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/AMAR.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/UD.png'/>
+AMAR&times;&#x0160;E,SISKUR,sizkur	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/AMAR_TIMES_SHE.png'/>
+AMAR&times;&#x0160;E.AMAR&times;&#x0160;E,SISKUR.SISKUR,sizkur<sub>2</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/AMAR_TIMES_SHE.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/AMAR_TIMES_SHE.png'/>
+AN,am<sub>6</sub>,an,d,di&#x011D;ir,il<sub>3</sub>,nagga<sub>x</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/AN.png'/>
+AN.A&#x0160;.AN,tilla<sub>2</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/AN_ASH_AN.png'/>
+AN.IM.DUGUD,anzud	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/AN.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/IM.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/DUGUD.png'/>
+AN.IM.MI,anzud<sub>2</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/AN.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/IM.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/MI.png'/>
+AN.NA,nagga	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/AN.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/NA.png'/>
+AN.NAGA,nanibgal	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/AN.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/NAGA.png'/>
+AN.&#x0160;E.NAGA,nanibgal<sub>2</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/AN.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/SHE.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/NAGA.png'/>
+AN.ZAG,uzug<sub>x</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/AN.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/ZAG.png'/>
+AN/AN,NAB	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/AN_OVER_AN.png'/>
+AN/AN.AN,MUL,mul,su&#x1E2B;ub<sub>2</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/AN_OVER_AN.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/AN.png'/>
+AN+NAGA(inverted)AN+NAGA,dal&#x1E2B;amun<sub>5</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/AN_PLUS_NAGA_OPPOSING_AN_PLUS_NAGA.png'/>
+AN&#x0160;E,an&#x0161;e	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/ANSHE.png'/>
+AN&#x0160;E.ARAD,dur<sub>3</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/ANSHE.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/ARAD.png'/>
+AN&#x0160;E.IGI.E&#x0160;<sub>2</sub>,AN&#x0160;E.LIBIR,dusu<sub>2</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/ANSHE.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/IGI.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/ESH2.png'/>
+APIN,absin<sub>3</sub>,apin,engar,ur<sub>11</sub>,u&#x0161;<sub>8</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/APIN.png'/>
+ARAD,arad,er<sub>3</sub>,nita&#x1E2B;<sub>2</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/ARAD.png'/>
+ARAD&times;KUR,ARAD<sub>2</sub>,arad<sub>2</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/ARAD_TIMES_KUR.png'/>
+A&#x0160;,a&#x0161;,dil,dili,rum,til<sub>4</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/ASH.png'/>
+A&#x0160;<sub>2</sub>,a&#x0161;<sub>2</sub>,ziz<sub>2</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/ASH2.png'/>
+A&#x0160;<sub>2</sub>.A.AN,im&#x011D;a&#x011D;a,ulu&#x0161;in	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/ASH2.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/A.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/AN.png'/>
+A&#x0160;<sub>2</sub>.AN,im&#x011D;a&#x011D;a<sub>3</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/ASH2.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/AN.png'/>
+A&#x0160;<sub>2</sub>.AN,ulu&#x0161;in<sub>3</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/ASH2.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/AN.png'/>
+A&#x0160;<sub>2</sub>.GAR<sub>3</sub>,e&#x0161;gar	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/ASH2.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/GAR3.png'/>
+A&#x0160;GAB,a&#x0161;gab	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/ASHGAB.png'/>
+BA,ba,be<sub>4</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/BA.png'/>
+BAD,ba<sub>9</sub>,bad,be	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/BAD.png'/>
+BAD.LU<sub>2</sub>,ad<sub>x</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/BAD.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/LU2.png'/>
+BAD.UD,lugud	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/BAD.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/UD.png'/>
+BAHAR<sub>2</sub>,ba&#x1E2B;ar<sub>2</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/BAHAR2.png'/>
+BAL,bal	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/BAL.png'/>
+BALAG,bala&#x011D;,bulu&#x011D;<sub>5</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/BALAG.png'/>
+BALAG.LUL,tigi	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/BALAG.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/LUL.png'/>
+BAR,bar	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/BAR.png'/>
+BAR.AN,kunga<sub>2</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/BAR.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/AN.png'/>
+BARA<sub>2</sub>,barag,&#x0161;ara	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/BARA2.png'/>
+BARA<sub>2</sub>.PAP.&#x0160;E.PAP,BARA<sub>2</sub>.MUNU<sub>4</sub>,titab	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/BARA2.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/PAP.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/SHE.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/PAP.png'/>
+BI,be<sub>2</sub>,bi,biz,ka&#x0161;,pe<sub>2</sub>,pi<sub>2</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/BI.png'/>
+BI.A.SUD,ka&#x0161;bir	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/BI.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/A.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/SUD.png'/>
+BI.DIN,kurun	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/BI.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/DIN.png'/>
+BI.LUL,ku&#x0161;um	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/BI.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/LUL.png'/>
+BU,bu,bur<sub>12</sub>,dur<sub>7</sub>,gid<sub>2</sub>,kim<sub>3</sub>,pu,sir<sub>2</sub>,su<sub>13</sub>,sud<sub>4</sub>,tur<sub>8</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/BU.png'/>
+BU/BU.AB,SIRSIR,sirsir	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/BU_OVER_BU_AB.png'/>
+BULUG,bulug	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/BULUG.png'/>
+BUR,bur	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/BUR.png'/>
+BUR<sub>2</sub>,bu<sub>8</sub>,bur<sub>2</sub>,du<sub>9</sub>,dun<sub>5</sub>,sun<sub>5</sub>,u&#x0161;um	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/BUR2.png'/>
+DA,da,ta<sub>2</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/DA.png'/>
+DAG,barag<sub>2</sub>,dag,par<sub>3</sub>,para<sub>3</sub>,tag<sub>2</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/DAG.png'/>
+DAG.KISIM<sub>5</sub>&times;GA,UBUR,akan,ubur	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/DAG_KISIM5_TIMES_GA.png'/>
+DAG.KISIM<sub>5</sub>&times;GIR<sub>2</sub>,KI&#x0160;I<sub>8</sub>,ki&#x0161;i<sub>8</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/DAG_KISIM5_TIMES_GIR2.png'/>
+DAG.KISIM<sub>5</sub>&times;LU,UBUR<sub>2</sub>,ubur<sub>2</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/DAG_KISIM5_TIMES_LU.png'/>
+DAG.KISIM<sub>5</sub>&times;LU+MA&#x0160;<sub>2</sub>,AMA&#x0160;,ama&#x0161;,utua<sub>2</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/DAG_KISIM5_TIMES_LU_PLUS_MASH2.png'/>
+DAG.KISIM<sub>5</sub>&times;SI,kisim<sub>2</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/DAG_KISIM5_TIMES_SI.png'/>
+DAG.KISIM<sub>5</sub>&times;U<sub>2</sub>+GIR<sub>2</sub>,KI&#x0160;I<sub>9</sub>,&#x1E2B;arub,kisim	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/DAG_KISIM5_TIMES_U2_PLUS_GIR2.png'/>
+DAM,dam	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/DAM.png'/>
+DAR,dar,gun<sub>3</sub>,tar<sub>2</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/DAR.png'/>
+DARA<sub>3</sub>,dar<sub>3</sub>,dara<sub>3</sub>,tara&#x1E2B;	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/DARA3.png'/>
+DARA<sub>4</sub>,dara<sub>4</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/DARA4.png'/>
+DI,de,di,sa<sub>2</sub>,silim	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/DI.png'/>
+DIB,dab,dib	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/DIB.png'/>
+DIM,dim	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/DIM.png'/>
+DIM&times;&#x0160;E,MUN,mun	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/DIM_TIMES_SHE.png'/>
+DIM<sub>2</sub>,GIM,dim<sub>2</sub>,ge<sub>18</sub>,gen<sub>7</sub>,gim,gin<sub>7</sub>,&#x0161;idim	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/DIM2.png'/>
+DIN,din,kurun<sub>2</sub>,tin	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/DIN.png'/>
+DI&#x0160;,di&#x0161;,e&#x0161;<sub>4</sub>,m,tal<sub>4</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/DISH.png'/>
+DU,de<sub>6</sub>,du,gub,&#x011D;en,im<sub>4</sub>,ku<sub>x</sub>,kub,kur<sub>x</sub>,la&#x1E2B;<sub>6</sub>,ra<sub>2</sub>,re<sub>6</sub>,&#x0161;a<sub>4</sub>,tu<sub>3</sub>,tum<sub>2</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/DU.png'/>
+DU.DU,la&#x1E2B;<sub>5</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/DU.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/DU.png'/>
+DUgunu,SU&#x1E2A;U&#x0160;,su&#x1E2B;u&#x0161;	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/DU_GUNU.png'/>
+DU/DU,LA&#x1E2A;<sub>4</sub>,la&#x1E2B;<sub>4</sub>,re<sub>7</sub>,su<sub>8</sub>,sub<sub>2</sub>,sug<sub>2</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/DU_OVER_DU.png'/>
+DU&#x0161;e&#x0161;ig,KA&#x0160;<sub>4</sub>,gir<sub>5</sub>,im<sub>2</sub>,ka&#x0161;<sub>4</sub>,rim<sub>4</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/DU_SHESHIG.png'/>
+DUB,dab<sub>4</sub>,dub,ki&#x0161;ib<sub>3</sub>,zamug	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/DUB.png'/>
+DUB.NAGAR,tibira	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/DUB.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/NAGAR.png'/>
+DUB<sub>2</sub>,dub<sub>2</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/DUB2.png'/>
+DUG,dug,epir,gurun<sub>7</sub>,kurin,kurun<sub>3</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/DUG.png'/>
+DUGUD,dugud,&#x011D;i<sub>25</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/DUGUD.png'/>
+DUN,&#x0160;UL,dun,dur<sub>9</sub>,sul,&#x0161;a&#x1E2B;<sub>2</sub>,&#x0161;ul,zu<sub>7</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/DUN.png'/>
+DUN<sub>3</sub>,TUN<sub>3</sub>,du<sub>5</sub>,tun<sub>3</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/DUN3.png'/>
+DUN<sub>3</sub>gunu,GIN<sub>2</sub>,aga<sub>3</sub>,gi&#x011D;<sub>4</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/DUN3_GUNU.png'/>
+DUN<sub>3</sub>gunugunu,MIR,aga,mir,ni&#x011D;ir	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/DUN3_GUNU_GUNU.png'/>
+DUN<sub>3</sub>gunugunu&#x0161;e&#x0161;ig,DUN<sub>4</sub>,dul<sub>4</sub>,&#x0161;udul<sub>4</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/DUN3_GUNU_GUNU_SHESHIG.png'/>
+E,e,eg<sub>2</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/E.png'/>
+E.TUM,gur<sub>21</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/E.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/TUM.png'/>
+E<sub>2</sub>,e<sub>2</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/E2.png'/>
+E<sub>2</sub>.NUN,agrun	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/E2.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/NUN.png'/>
+E<sub>2</sub>.U&#x0160;.BU.DA,ara&#x1E2B;<sub>4</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/E2.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/USH.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/BU.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/DA.png'/>
+EDIN,bir<sub>4</sub>,edim<sub>x</sub>,edin,ru<sub>6</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/EDIN.png'/>
+EGIR,e&#x011D;er	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/EGIR.png'/>
+EL,el,il<sub>5</sub>,sikil	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/EL.png'/>
+EN,en,in<sub>4</sub>,ru<sub>12</sub>,uru<sub>16</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/EN.png'/>
+EN.DIM<sub>2</sub>.GIG,EN.GIM.GIG,enegir<sub>3</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/EN.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/DIM2.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/GIG.png'/>
+EN.KID,nibru	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/EN.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/KID.png'/>
+EN.ME.AD.KU<sub>3</sub>,EN.ME.AD.KUG,&#x0161;ennu	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/EN.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/ME.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/AD.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/KU3.png'/>
+EN.ME.GI,engiz	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/EN.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/ME.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/GI.png'/>
+EN.ME.LI,ensi	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/EN.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/ME.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/LI.png'/>
+EN.NU.NUNUZ.ZI.AN.&#x0160;E&#x0160;.KI,zirru<sub>x</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/EN.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/NU.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/NUNUZ.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/ZI.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/AN.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/SHESH.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/KI.png'/>
+EN.NUNUZ.ZI.AN.&#x0160;E&#x0160;.KI,zirru	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/EN.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/NUNUZ.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/ZI.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/AN.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/SHESH.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/KI.png'/>
+EN.PAP.IGIgunu.NUN.ME.EZEN&times;KASKAL,EN.PAB.SIG<sub>7</sub>.NUN.ME.EZEN&times;KASKAL,enkum,isimud<sub>x</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/EN.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/PAP.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/IGI_GUNU.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/NUN.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/ME.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/EZEN_TIMES_KASKAL.png'/>
+EN.TI,ebi&#x1E2B;	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/EN.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/TI.png'/>
+EN.ZU,suen	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/EN.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/ZU.png'/>
+EN&times;GAN<sub>2</sub>tenu,BURU<sub>14</sub> and EN&times;KAR<sub>2</sub>,buru<sub>14</sub>,enkar,e&#x0161;giri<sub>2</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/EN_TIMES_GAN2_TENU.png'/>
+EN&times;ME.LI,ENME.LI,ensi<sub>3</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/EN_TIMES_ME.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/LI.png'/>
+EREN,erin,&#x0161;e<sub>22</sub>,&#x0161;e&#x0161;<sub>4</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/EREN.png'/>
+ERIN<sub>2</sub>,ERIM,erim,erin<sub>2</sub>,pir<sub>2</sub>,rin<sub>2</sub>,zalag<sub>2</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/ERIN2.png'/>
+E&#x0160;<sub>2</sub>,&#x0160;E<sub>3</sub>,egir<sub>2</sub>,e&#x0161;<sub>2</sub>,e&#x0161;e<sub>2</sub>,gir<sub>15</sub>,&#x1E2B;u&#x011D;,sumun<sub>x</sub>,&#x0161;e<sub>3</sub>,ub<sub>2</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/ESH2.png'/>
+E&#x0160;<sub>2</sub>.BU.E&#x0160;<sub>2</sub>.NUN.E&#x0160;<sub>2</sub>.TU,saman<sub>x</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/ESH2.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/BU.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/ESH2.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/NUN.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/ESH2.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/TU.png'/>
+E&#x0160;<sub>2</sub>.BU.NUN.E&#x0160;<sub>2</sub>.TU,saman<sub>2</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/ESH2.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/BU.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/NUN.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/ESH2.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/TU.png'/>
+E&#x0160;<sub>2</sub>.MAH,ebi&#x1E2B;<sub>2</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/ESH2.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/MAH.png'/>
+E&#x0160;<sub>2</sub>.&#x0160;E,dabin	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/ESH2.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/SHE.png'/>
+E&#x0160;<sub>2</sub>.SUD.NUN.E&#x0160;<sub>2</sub>.TU,saman	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/ESH2.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/SUD.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/NUN.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/ESH2.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/TU.png'/>
+E&#x0160;<sub>2</sub>.SUD.UD.NUN.E&#x0160;<sub>2</sub>.TU,saman<sub>x</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/ESH2.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/SUD.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/UD.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/NUN.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/ESH2.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/TU.png'/>
+EZEN,asil<sub>x</sub>,ezem,ezen,gublaga<sub>x</sub>,&#x0161;er<sub>3</sub>,&#x0161;ir<sub>3</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/EZEN.png'/>
+EZEN&times;A,ASILAL<sub>3</sub>,asil<sub>3</sub>,asila<sub>3</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/EZEN_TIMES_A.png'/>
+EZEN&times;BAD,BAD<sub>3</sub>,bad<sub>3</sub>,u<sub>9</sub>,ug<sub>5</sub>,un<sub>3</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/EZEN_TIMES_BAD.png'/>
+EZEN&times;KASKAL,UBARA,ubara,un<sub>4</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/EZEN_TIMES_KASKAL.png'/>
+EZEN&times;KU<sub>3</sub>,EZEN&times;KUG,kisiga	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/EZEN_TIMES_KU3.png'/>
+EZEN&times;LA,gublaga	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/EZEN_TIMES_LA.png'/>
+EZEN&times;LAL&times;LAL,ASILAL and EZEN&times;LAL<sub>2</sub>,asil,asila	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/EZEN_TIMES_LAL_TIMES_LAL.png'/>
+GA,ga,gur<sub>11</sub>,ka<sub>3</sub>,qa<sub>2</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/GA.png'/>
+GA.DUB<sub>2</sub>,sa&#x011D;&#x011D;a<sub>7</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/GA.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/DUB2.png'/>
+GA<sub>2</sub>,ba<sub>4</sub>,&#x011D;a<sub>2</sub>,&#x011D;e<sub>26</sub>,ma<sub>3</sub>,pisa&#x011D;	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/GA2.png'/>
+GA<sub>2</sub>&times;AN,AMA,ama,da&#x011D;al	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/GA2_TIMES_AN.png'/>
+GA<sub>2</sub>&times;AN.AN.MU&#x0160;<sub>3</sub>,AMA.AN.MU&#x0160;<sub>3</sub>,amalu	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/GA2_TIMES_AN.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/AN.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/MUSH3.png'/>
+GA<sub>2</sub>&times;AN.DUN<sub>3</sub>gunu,AMA.GIN<sub>2</sub>,agarin<sub>3</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/GA2_TIMES_AN.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/DUN3_GUNU.png'/>
+GA<sub>2</sub>&times;AN.&#x0160;IM,AMA.&#x0160;IM,agarin<sub>4</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/GA2_TIMES_AN.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/SHIM.png'/>
+GA<sub>2</sub>&times;GAN<sub>2</sub>tenu,DAN<sub>4</sub> and GA<sub>2</sub>&times;KAR<sub>2</sub>,dan<sub>4</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/GA2_TIMES_GAN2_TENU.png'/>
+GA<sub>2</sub>&times;GAR,GALGA and GA<sub>2</sub>&times;NIG<sub>2</sub>,&#x011D;alga	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/GA2_TIMES_GAR.png'/>
+GA<sub>2</sub>&times;ME+EN,MEN,dan<sub>2</sub>,men	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/GA2_TIMES_ME_PLUS_EN.png'/>
+GA<sub>2</sub>&times;MI,ITIMA,itima	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/GA2_TIMES_MI.png'/>
+GA<sub>2</sub>&times;NUN,GANUN,&#x011D;anun	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/GA2_TIMES_NUN.png'/>
+GA<sub>2</sub>&times;NUN/NUN,UR<sub>3</sub>,ur<sub>3</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/GA2_TIMES_NUN_OVER_NUN.png'/>
+GA<sub>2</sub>&times;PA,SILA<sub>4</sub>,gazi,sila<sub>4</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/GA2_TIMES_PA.png'/>
+GA<sub>2</sub>&times;SAL,AR&#x1E2A;U&#x0160; and GA<sub>2</sub>&times;MUNUS,ama<sub>5</sub>,ar&#x1E2B;u&#x0161;	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/GA2_TIMES_SAL.png'/>
+GA<sub>2</sub>&times;&#x0160;E,ESAG<sub>2</sub>,esa&#x011D;<sub>2</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/GA2_TIMES_SHE.png'/>
+GA<sub>2</sub>&times;TAK<sub>4</sub>,DAN<sub>3</sub> and GA<sub>2</sub>&times;KID<sub>2</sub>,dan<sub>3</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/GA2_TIMES_TAK4.png'/>
+GABA,du<sub>8</sub>,du&#x1E2B;,gab,gaba	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/GABA.png'/>
+GAD,gada	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/GAD.png'/>
+GAD.TAK<sub>4</sub>.SI,AKKIL and GAD.KID<sub>2</sub>.SI,akkil	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/GAD.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/TAK4.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/SI.png'/>
+GAD.TAK<sub>4</sub>.SI.A,akkil<sub>x</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/GAD.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/TAK4.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/SI.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/A.png'/>
+GAD.TAK<sub>4</sub>.UR<sub>2</sub>,UMBIN and GAD.KID<sub>2</sub>.UR<sub>2</sub>,umbin	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/GAD.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/TAK4.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/UR2.png'/>
+GAD/GAD.GAR/GAR,KINDA,garadin<sub>x</sub>,kinda	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/GAD_OVER_GAD_GAR_OVER_GAR.png'/>
+GAL,gal,kal<sub>2</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/GAL.png'/>
+GAL.BUR<sub>2</sub>,u&#x0161;umgal	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/GAL.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/BUR2.png'/>
+GAL.GAD/GAD.GAR/GAR,GAL.KINDA,kindagal	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/GAL_GAD_OVER_GAD_GAR_OVER_GAR.png'/>
+GAL.TE,tiru	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/GAL.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/TE.png'/>
+GAL.URI,kindagal<sub>2</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/GAL.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/URI.png'/>
+GAL.URU&times;BAR,GAL.UKKIN,kingal	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/GAL.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/URU_TIMES_BAR.png'/>
+GALAM,galam,suku<sub>x</sub>,sukud	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/GALAM.png'/>
+GAM,gam,gur<sub>2</sub>,gurum	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/GAM.png'/>
+GAN,gam<sub>4</sub>,gan,gana,&#x1E2B;e<sub>2</sub>,kan	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/GAN.png'/>
+GAN<sub>2</sub>,ga<sub>3</sub>,gan<sub>2</sub>,gana<sub>2</sub>,iku,kan<sub>2</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/GAN2.png'/>
+GAN<sub>2</sub>%GAN<sub>2</sub>,ulul<sub>2</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/GAN2_CROSSING_GAN2.png'/>
+GAN<sub>2</sub>tenu,KAR<sub>2</sub>,guru<sub>6</sub>,kar<sub>2</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/GAN2_TENU.png'/>
+GAR,NIG<sub>2</sub>,&#x011D;ar,ni<sub>3</sub>,ni&#x011D;<sub>2</sub>,ninda,nindan,&#x0161;a<sub>2</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/GAR.png'/>
+GAR.&#x0160;A<sub>3</sub>,NIG<sub>2</sub>.&#x0160;A<sub>3</sub>,kadra<sub>2</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/GAR.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/SHA3.png'/>
+GAR.&#x0160;A<sub>3</sub>.A,NIG<sub>2</sub>.&#x0160;A<sub>3</sub>.A,kadra	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/GAR.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/SHA3.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/A.png'/>
+GAR<sub>3</sub>,gar<sub>3</sub>,gara<sub>3</sub>,qar	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/GAR3.png'/>
+GAgunu,GAR<sub>2</sub>,gara<sub>2</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/GA_GUNU.png'/>
+GE&#x0160;TIN,&#x011D;e&#x0161;tin	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/GESHTIN.png'/>
+GI,ge,gen<sub>6</sub>,gi,ke<sub>2</sub>,ki<sub>2</sub>,sig<sub>17</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/GI.png'/>
+GI.NA.AB.U.GUD,GI.NA.AB.UL,&#x0161;utum	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/GI.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/NA.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/AB.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/U_GUD.png'/>
+GI<sub>4</sub>,ge<sub>4</sub>,gi<sub>4</sub>,qi<sub>4</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/GI4.png'/>
+GIDIM,gidim	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/GIDIM.png'/>
+GIG,gi<sub>17</sub>,gig,sim<sub>x</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/GIG.png'/>
+GIR<sub>2</sub>,&#x011D;ir<sub>2</sub>,&#x011D;iri<sub>2</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/GIR2.png'/>
+GIR<sub>2</sub>gunu,ki&#x0161;i<sub>17</sub>,tab<sub>2</sub>,ul<sub>4</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/GIR2_GUNU.png'/>
+GIR<sub>3</sub>,er<sub>9</sub>,gir<sub>3</sub>,&#x011D;ir<sub>3</sub>,&#x011D;iri<sub>3</sub>,&#x0161;akkan<sub>2</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/GIR3.png'/>
+GIR<sub>3</sub>.ARAD,&#x0161;agina	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/GIR3.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/ARAD.png'/>
+GIR<sub>3</sub>.BAR,&#x0161;er<sub>11</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/GIR3.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/BAR.png'/>
+GIR<sub>3</sub>&times;A+IGI,ALIM,alim	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/GIR3_TIMES_A_PLUS_IGI.png'/>
+GIR<sub>3</sub>&times;GAN<sub>2</sub>tenu,GIR<sub>3</sub>&times;KAR<sub>2</sub>,gir<sub>16</sub>,giri<sub>16</sub>,girid<sub>2</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/GIR3_TIMES_GAN2_TENU.png'/>
+GIR<sub>3</sub>&times;LU+IGI,lulim	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/GIR3_TIMES_LU_PLUS_IGI.png'/>
+GISAL,&#x011D;isal	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/GISAL.png'/>
+GI&#x0160;,&#x011D;i&#x0161;,is,i&#x0161;<sub>6</sub>,iz	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/GISH.png'/>
+GI&#x0160;.BAR,gira<sub>2</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/GISH.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/BAR.png'/>
+GI&#x0160;.DUN<sub>3</sub>gunu.MA&#x0160;,GI&#x0160;.GIN<sub>2</sub>.MA&#x0160;,gilgame&#x0161;	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/GISH.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/DUN3_GUNU.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/MASH.png'/>
+GI&#x0160;.GA<sub>2</sub>&times;NUN/NUN,&#x011D;u&#x0161;ur<sub>x</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/GISH.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/GA2_TIMES_NUN_OVER_NUN.png'/>
+GI&#x0160;.KU&#x0160;U<sub>2</sub>,umma	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/GISH.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/KUSHU2.png'/>
+GI&#x0160;.MI,&#x011D;issu	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/GISH.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/MI.png'/>
+GI&#x0160;.NE.GA.MES,gilgame&#x0161;<sub>3</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/GISH.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/NE.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/GA.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/MES.png'/>
+GI&#x0160;.NE.MES.GA,gilgame&#x0161;<sub>x</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/GISH.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/NE.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/MES.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/GA.png'/>
+GI&#x0160;.NE&#x0161;e&#x0161;ig.GA.MES,GI&#x0160;.BIL<sub>2</sub>.GA.MES,gilgame&#x0161;<sub>2</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/GISH.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/NE_SHESHIG.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/GA.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/MES.png'/>
+GI&#x0160;.PI.TUG<sub>2</sub>,&#x011D;e&#x0161;tug<sub>3</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/GISH.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/PI.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/TUG2.png'/>
+GI&#x0160;.TUG<sub>2</sub>.NI,&#x011D;izzal<sub>x</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/GISH.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/TUG2.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/NI.png'/>
+GI&#x0160;.TUG<sub>2</sub>.PI,&#x011D;e&#x0161;tug<sub>2</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/GISH.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/TUG2.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/PI.png'/>
+GI&#x0160;.TUG<sub>2</sub>.PI.NU<sub>11</sub>.SILA<sub>3</sub>,&#x011D;izzal	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/GISH.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/TUG2.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/PI.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/NU11.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/SILA3.png'/>
+GI&#x0160;%GI&#x0160;,KIB,&#x1E2B;ul<sub>3</sub>,lirum<sub>3</sub>,&#x0161;ennur,ul<sub>3</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/GISH_CROSSING_GISH.png'/>
+GI&#x0160;%GI&#x0160;.NUN,buranun<sub>x</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/GISH_CROSSING_GISH.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/NUN.png'/>
+GI%GI,GIL,gel,gi<sub>16</sub>,gib,gil,gilim	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/GI_CROSSING_GI.png'/>
+GU,gu	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/GU.png'/>
+GU%GU,SU&#x1E2A;<sub>3</sub>,sa&#x1E2B;<sub>4</sub>,su&#x1E2B;<sub>3</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/GU_CROSSING_GU.png'/>
+GU<sub>2</sub>,gu<sub>2</sub>,gun<sub>2</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/GU2.png'/>
+GU<sub>2</sub>&times;KAK,DUR,dur,usan<sub>x</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/GU2_TIMES_KAK.png'/>
+GU<sub>2</sub>&times;NUN,USAN,sub<sub>3</sub>,usan	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/GU2_TIMES_NUN.png'/>
+GUD,e&#x0161;tub,gu<sub>4</sub>,gud	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/GUD.png'/>
+GUD&times;A+KUR,AM&times;A,ildag<sub>2</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/GUD_TIMES_A_PLUS_KUR.png'/>
+GUD&times;KUR,AM,am,ildag<sub>3</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/GUD_TIMES_KUR.png'/>
+GUL,gul,isimu<sub>2</sub>,kul<sub>2</sub>,si<sub>23</sub>,sumun<sub>2</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/GUL.png'/>
+GUM,KUM,gum,kum,na&#x011D;a<sub>4</sub>,qum	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/GUM.png'/>
+GUM&times;&#x0160;E,GAZ,gaz,na&#x011D;a<sub>3</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/GUM_TIMES_SHE.png'/>
+GUR,gur	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/GUR.png'/>
+GUR<sub>7</sub>,guru<sub>7</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/GUR7.png'/>
+GURUN,gam<sub>x</sub>,gurun	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/GURUN.png'/>
+HA,&#x1E2B;a,ku<sub>6</sub>,pe&#x0161;<sub>11</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/HA.png'/>
+HA.A,kuara,sa&#x1E2B;<sub>6</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/HA.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/A.png'/>
+HAgunu,GIR,bi&#x0161;,gir,pe&#x0161;	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/HA_GUNU.png'/>
+HAL,&#x1E2B;al	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/HAL.png'/>
+HI,da<sub>10</sub>,du<sub>10</sub>,dub<sub>3</sub>,dug<sub>3</sub>,&#x1E2B;e,&#x1E2B;i,&#x0161;ar<sub>2</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/HI.png'/>
+HI.GIR<sub>3</sub>,&#x1E2A;U&#x0160;,&#x1E2B;u&#x0161;	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/HI.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/GIR3.png'/>
+HI&times;A&#x0160;,SUR<sub>3</sub>,sur<sub>3</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/HI_TIMES_ASH.png'/>
+HI&times;A&#x0160;<sub>2</sub>,&#x1E2A;AR,ar<sub>3</sub>,&#x1E2B;ar,&#x1E2B;ur,kin<sub>2</sub>,kinkin,mar<sub>6</sub>,mur,ur<sub>5</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/HI_TIMES_ASH2.png'/>
+HI&times;BAD,KAM,kam,tu<sub>7</sub>,utul<sub>2</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/HI_TIMES_BAD.png'/>
+HI&times;NUN,A&#x1E2A;,a&#x2019;,a&#x1E2B;,e&#x1E2B;,i&#x1E2B;,u&#x1E2B;,umun<sub>3</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/HI_TIMES_NUN.png'/>
+HI&times;NUN.ME,A&#x1E2A;.ME,gudug	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/HI_TIMES_NUN.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/ME.png'/>
+HI&times;&#x0160;E,BIR,bir,dubur,giri&#x0161;	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/HI_TIMES_SHE.png'/>
+HU,&#x1E2B;u,mu&#x0161;en,pag,u<sub>11</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/HU.png'/>
+HU.HI,MUD,mud	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/HU.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/HI.png'/>
+HU.NA<sub>2</sub>,SA<sub>4</sub>,sa<sub>4</sub>,&#x0161;e<sub>21</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/HU.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/NA2.png'/>
+HU.SI,U<sub>5</sub>,u<sub>5</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/HU.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/SI.png'/>
+HU.&#x0160;E.ERIN<sub>2</sub>,BURU<sub>5</sub>,buru<sub>5</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/HU.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/SHE.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/ERIN2.png'/>
+HUB<sub>2</sub>,&#x1E2B;ub<sub>2</sub>,tu<sub>11</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/HUB2.png'/>
+HUB<sub>2</sub>&times;UD,&#x1E2A;UB,tu<sub>10</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/HUB2_TIMES_UD.png'/>
+HUL<sub>2</sub>,bibra,gukkal,&#x1E2B;ul<sub>2</sub>,ku&#x0161;<sub>8</sub>,uku&#x0161;<sub>2</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/HUL2.png'/>
+I,i	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/I.png'/>
+I.A,IA,ia	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/I_A.png'/>
+I.LU,kun<sub>4</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/I.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/LU.png'/>
+IB,dara<sub>2</sub>,eb,ib,ip,ura&#x0161;,urta	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/IB.png'/>
+IDIM,idim	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/IDIM.png'/>
+IG,eg,ek,&#x011D;al<sub>2</sub>,ig,ik,iq	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/IG.png'/>
+IGI,ge<sub>8</sub>,gi<sub>8</sub>,igi,lib<sub>4</sub>,lim,&#x0161;i	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/IGI.png'/>
+IGI.A,&#x0161;e<sub>x</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/IGI.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/A.png'/>
+IGI.DIB,U<sub>3</sub>,u<sub>3</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/IGI.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/DIB.png'/>
+IGI.DIM,&#x1E2B;enzer	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/IGI.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/DIM.png'/>
+IGI.DU,igi&#x0161;tu,palil	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/IGI.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/DU.png'/>
+IGI.DUB,AGRIG,a&#x011D;rig,&#x011D;i&#x0161;kim	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/IGI.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/DUB.png'/>
+IGI.E<sub>2</sub>,U<sub>6</sub>,u<sub>6</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/IGI.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/E2.png'/>
+IGI.ERIN<sub>2</sub>,SIG<sub>5</sub>,kur<sub>7</sub>,kurum<sub>7</sub>,sig<sub>5</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/IGI.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/ERIN2.png'/>
+IGI.E&#x0160;<sub>2</sub>,LIBIR,libir	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/IGI.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/ESH2.png'/>
+IGI.KAK,IGI.GAG,dala<sub>2</sub>,&#x0161;ukur	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/IGI.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/KAK.png'/>
+IGI.KUR,ganzer<sub>3</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/IGI.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/KUR.png'/>
+IGI.KUR.ZA,ganzer	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/IGI.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/KUR.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/ZA.png'/>
+IGI.NAGAR.BU,ildum<sub>2</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/IGI.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/NAGAR.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/BU.png'/>
+IGI.RI,AR,ar	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/IGI.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/RI.png'/>
+IGI.RU,PAD<sub>3</sub>,pa<sub>3</sub>,pad<sub>3</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/IGI.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/RU.png'/>
+IGI.TUR.TUR,ligima	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/IGI.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/TUR.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/TUR.png'/>
+IGI.UR,&#x1E2A;UL,&#x1E2B;ul	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/IGI.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/UR.png'/>
+IGIgunu,SIG<sub>7</sub>,imma<sub>3</sub>,se<sub>12</sub>,sig<sub>7</sub>,&#x0161;e<sub>x</sub>,ugur<sub>2</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/IGI_GUNU.png'/>
+IGIgunu.ALAN,SIG<sub>7</sub>.ALAM,ulutim<sub>2</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/IGI_GUNU.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/ALAN.png'/>
+IL,il	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/IL.png'/>
+IL<sub>2</sub>,dusu,ga<sub>6</sub>,gur<sub>3</sub>,guru<sub>3</sub>,il<sub>2</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/IL2.png'/>
+IM,did,em,enegir,im,i&#x0161;kur,karkara,ni<sub>2</sub>,tum<sub>9</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/IM.png'/>
+IM.A,&#x0161;e&#x011D;<sub>x</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/IM.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/A.png'/>
+IM.A.A,&#x0161;e&#x011D;<sub>x</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/IM.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/A.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/A.png'/>
+IM.A.AN,&#x0161;e&#x011D;<sub>14</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/IM.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/A.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/AN.png'/>
+IM.DUGUD,muru<sub>9</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/IM.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/DUGUD.png'/>
+IM.SI.A,IM.DIR,dungu	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/IM.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/SI.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/A.png'/>
+IM&times;TAK<sub>4</sub>,IM&times;KID<sub>2</sub>,kid<sub>7</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/IM_TIMES_TAK4.png'/>
+IMIN,7,imin	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/IMIN.png'/>
+IN,en<sub>6</sub>,in,isin<sub>2</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/IN.png'/>
+IR,er,ir	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/IR.png'/>
+I&#x0160;,isi&#x0161;,i&#x0161;,i&#x0161;i,ku&#x0161;<sub>7</sub>,kukku&#x0161;,sa&#x1E2B;ar	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/ISH.png'/>
+KA,du<sub>11</sub>,dug<sub>4</sub>,ga<sub>14</sub>,giri<sub>17</sub>,gu<sub>3</sub>,inim,ka,kir<sub>4</sub>,pi<sub>4</sub>,su<sub>11</sub>,&#x0161;ud<sub>x</sub>,zu<sub>2</sub>,zu&#x1E2B;	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/KA.png'/>
+KA.AN.NI.SI,kurku<sub>2</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/KA.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/AN.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/NI.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/SI.png'/>
+KA.DI,i&#x0161;taran	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/KA.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/DI.png'/>
+KA.HI,dimma	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/KA.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/HI.png'/>
+KA.&#x0160;U,&#x0161;udu<sub>x</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/KA.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/SHU.png'/>
+KA.U<sub>2</sub>,uzug<sub>x</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/KA.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/U2.png'/>
+KA&times;A,NAG,enmen<sub>2</sub>,kab<sub>2</sub>,na<sub>8</sub>,na&#x011D;	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/KA_TIMES_A.png'/>
+KA&times;BAD,U&#x0160;<sub>11</sub>,u&#x0161;<sub>11</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/KA_TIMES_BAD.png'/>
+KA&times;BALAG,&#x0161;eg<sub>11</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/KA_TIMES_BALAG.png'/>
+KA&times;E&#x0160;<sub>2</sub>,KA&times;&#x0160;E<sub>3</sub>,ma<sub>5</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/KA_TIMES_ESH2.png'/>
+KA&times;GA,sub	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/KA_TIMES_GA.png'/>
+KA&times;GAN<sub>2</sub>tenu,PU<sub>3</sub> and KA&times;KAR<sub>2</sub>,bu<sub>3</sub>,kana<sub>6</sub>,puzur<sub>5</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/KA_TIMES_GAN2_TENU.png'/>
+KA&times;GAN<sub>2</sub>tenu.&#x0160;A,PU<sub>3</sub>.ZUR<sub>8</sub>,puzur<sub>4</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/KA_TIMES_GAN2_TENU.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/SHA.png'/>
+KA&times;GAR,GU<sub>7</sub> and KA&times;NIG<sub>2</sub>,gu<sub>7</sub>,&#x0161;a&#x011D;ar	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/KA_TIMES_GAR.png'/>
+KA&times;IM,BUN<sub>2</sub>,bun<sub>2</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/KA_TIMES_IM.png'/>
+KA&times;LI,TU<sub>6</sub>,&#x011D;ili<sub>3</sub>,mu<sub>7</sub>,&#x0161;eg<sub>x</sub>,tu<sub>6</sub>,u&#x0161;<sub>7</sub>,zug<sub>4</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/KA_TIMES_LI.png'/>
+KA&times;ME,EME,eme	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/KA_TIMES_ME.png'/>
+KA&times;MI,kana<sub>5</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/KA_TIMES_MI.png'/>
+KA&times;NE,urgu<sub>2</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/KA_TIMES_NE.png'/>
+KA&times;NUN,NUNDUM,nundum	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/KA_TIMES_NUN.png'/>
+KA&times;SA,SU<sub>6</sub>,sun<sub>4</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/KA_TIMES_SA.png'/>
+KA&times;SAR,ma<sub>8</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/KA_TIMES_SAR.png'/>
+KA&times;&#x0160;E,tukur<sub>2</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/KA_TIMES_SHE.png'/>
+KA&times;&#x0160;ID,sig<sub>x</sub>,&#x0161;eg<sub>10</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/KA_TIMES_SHID.png'/>
+KA&times;&#x0160;U,&#x0161;udu<sub>3</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/KA_TIMES_SHU.png'/>
+KA&times;UD,enmen,si<sub>19</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/KA_TIMES_UD.png'/>
+KA<sub>2</sub>,kan<sub>4</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/KA2.png'/>
+KA<sub>2</sub>.GAL,abul,abula	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/KA2.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/GAL.png'/>
+KAB,gab<sub>2</sub>,gabu<sub>2</sub>,kab	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/KAB.png'/>
+KAD<sub>3</sub>,sed<sub>x</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/KAD3.png'/>
+KAD<sub>4</sub>,kad<sub>4</sub>,kam<sub>3</sub>,pe&#x0161;<sub>5</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/KAD4.png'/>
+KAD<sub>5</sub>,kad<sub>5</sub>,pe&#x0161;<sub>6</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/KAD5.png'/>
+KAK,GAG,da<sub>3</sub>,du<sub>3</sub>,gag,&#x1E2B;enbur,ru<sub>2</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/KAK.png'/>
+KAL,alad<sub>2</sub>,esi,&#x011D;uru&#x0161;,kal,kalag,lamma,rib,sun<sub>7</sub>,zi<sub>8</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/KAL.png'/>
+KAL&times;BAD,ALAD,alad	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/KAL_TIMES_BAD.png'/>
+KASKAL,e&#x0161;<sub>8</sub>,ir<sub>7</sub>,kaskal,ra&#x0161;	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/KASKAL.png'/>
+KASKAL.BU,danna	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/KASKAL.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/BU.png'/>
+KASKAL.KUR,ILLAT,illat	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/KASKAL.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/KUR.png'/>
+KASKAL.LAGAB,&#x0161;ubtum<sub>3</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/KASKAL.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/LAGAB.png'/>
+KASKAL.LAGAB&times;U,&#x0161;ubtum<sub>5</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/KASKAL.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/LAGAB_TIMES_U.png'/>
+KASKAL.LAGAB&times;U/LAGAB&times;U,&#x0161;ubtum<sub>6</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/KASKAL_LAGAB_TIMES_U_OVER_LAGAB_TIMES_U.png'/>
+KE&#x0160;<sub>2</sub>,gir<sub>11</sub>,&#x1E2B;ir,ke&#x0161;e<sub>2</sub>,kirid	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/KESH2.png'/>
+KI,ge<sub>5</sub>,gi<sub>5</sub>,ke,ki,qi<sub>2</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/KI.png'/>
+KI.A,pe&#x0161;<sub>10</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/KI.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/A.png'/>
+KI.AN.&#x0160;E&#x0160;.KI,munzer	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/KI.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/AN.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/SHESH.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/KI.png'/>
+KI.BI,&#x011D;i&#x0161;bun<sub>x</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/KI.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/BI.png'/>
+KI.BI.GAR,KI.BI.NIG<sub>2</sub>,&#x011D;i&#x0161;bum,&#x011D;i&#x0161;bun	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/KI.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/BI.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/GAR.png'/>
+KI.E.NE.DI,e&#x0161;emen	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/KI.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/E.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/NE.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/DI.png'/>
+KI.E.NE.DI.AN.MU&#x0160;<sub>3</sub>,e&#x0161;emen<sub>2</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/KI.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/E.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/NE.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/DI.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/AN.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/MUSH3.png'/>
+KI.KAL,&#x1E2B;irin,sas,ulutim	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/KI.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/KAL.png'/>
+KI.KAL&times;BAD,KI.ALAD,gara&#x0161;<sub>2</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/KI.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/KAL_TIMES_BAD.png'/>
+KI.LAM,ganba	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/KI.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/LAM.png'/>
+KI.SAG.SAL,KI.SAG.MUNUS,igira<sub>2</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/KI.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/SAG.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/SAL.png'/>
+KI.SU.LU.E&#x0160;<sub>2</sub>.GAR,KI.SU.LU.&#x0160;E<sub>3</sub>.NIG<sub>2</sub>,ugnim	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/KI.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/SU.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/LU.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/ESH2.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/GAR.png'/>
+KI.UD,kisla&#x1E2B;	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/KI.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/UD.png'/>
+KI.URU&times;MIN,KI.GI&#x0160;GAL,dagan	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/KI.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/URU_TIMES_MIN.png'/>
+KI&times;U,&#x1E2A;ABRUD,&#x1E2B;abrud	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/KI_TIMES_U.png'/>
+KID,ge<sub>2</sub>,gi<sub>2</sub>,ke<sub>4</sub>,kid,lil<sub>2</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/KID.png'/>
+KIN,gur<sub>10</sub>,ki&#x011D;<sub>2</sub>,kin,saga<sub>11</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/KIN.png'/>
+KISAL,kisal,par<sub>4</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/KISAL.png'/>
+KI&#x0160;,ki&#x0161;	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/KISH.png'/>
+KU,bid<sub>3</sub>,bu<sub>7</sub>,dab<sub>5</sub>,dib<sub>2</sub>,dur<sub>2</sub>,duru<sub>2</sub>,durun,gu<sub>5</sub>,ku,nu<sub>10</sub>,su&#x1E2B;<sub>5</sub>,&#x0161;e<sub>10</sub>,tukul,tu&#x0161;,ugu<sub>4</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/KU.png'/>
+KU.AN,mitum	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/KU.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/AN.png'/>
+KU.IDIM,mitum<sub>2</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/KU.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/IDIM.png'/>
+KU.KU,durun<sub>x</sub>,e&#x1E2B;<sub>3</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/KU.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/KU.png'/>
+KU.KU.KU,e&#x1E2B;e&#x1E2B;&#x1E2B;e	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/KU.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/KU.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/KU.png'/>
+KU<sub>3</sub>,KUG,ku<sub>3</sub>,kug	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/KU3.png'/>
+KU<sub>3</sub>.AN,KUG.AN,azag	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/KU3.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/AN.png'/>
+KU<sub>4</sub>,ku<sub>4</sub>,kur<sub>9</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/KU4.png'/>
+KU<sub>7</sub>,guru&#x0161;ta,ku<sub>7</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/KU7.png'/>
+KUL,NUMUN,kul,numun	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/KUL.png'/>
+KUN,kun	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/KUN.png'/>
+KUR,gin<sub>3</sub>,kur	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/KUR.png'/>
+KUR.ZA.KUR.ZI,ganzer<sub>x</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/KUR.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/ZA.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/KUR.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/ZI.png'/>
+KU&#x0160;U<sub>2</sub>,ku&#x0161;u<sub>2</sub>,u&#x1E2B;<sub>3</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/KUSHU2.png'/>
+LA,la,&#x0161;ika	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/LA.png'/>
+LAGAB,ellag,girin,gur<sub>4</sub>,&#x1E2B;ab,kilib,kir<sub>3</sub>,lagab,lugud<sub>2</sub>,ni<sub>10</sub>,ni&#x011D;in<sub>2</sub>,rin	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/LAGAB.png'/>
+LAGAB.LAGAB,NIGIN,kilib<sub>3</sub>,ni&#x011D;in	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/LAGAB.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/LAGAB.png'/>
+LAGAB&times;A,SUG,ambar,as<sub>4</sub>,buni&#x011D;,sug	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/LAGAB_TIMES_A.png'/>
+LAGAB&times;BAD,GIGIR,gigir	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/LAGAB_TIMES_BAD.png'/>
+LAGAB&times;GAR,LAGAB&times;NIG<sub>2</sub>,buni&#x011D;<sub>2</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/LAGAB_TIMES_GAR.png'/>
+LAGAB&times;GUD,&#x0161;urum<sub>3</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/LAGAB_TIMES_GUD.png'/>
+LAGAB&times;GUD+GUD,ganam<sub>4</sub>,&#x0161;urum,u<sub>8</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/LAGAB_TIMES_GUD_PLUS_GUD.png'/>
+LAGAB&times;HAL,ENGUR,engur,namma	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/LAGAB_TIMES_HAL.png'/>
+LAGAB&times;IGIgunu,&#x0160;ARA<sub>2</sub> and LAGAB&times;SIG<sub>7</sub>,imma<sub>x</sub>,&#x0161;ara<sub>2</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/LAGAB_TIMES_IGI_GUNU.png'/>
+LAGAB&times;KUL,ESIR<sub>2</sub> and LAGAB&times;NUMUN,esir<sub>2</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/LAGAB_TIMES_KUL.png'/>
+LAGAB&times;SUM,ZAR,zar	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/LAGAB_TIMES_SUM.png'/>
+LAGAB&times;U,TUL<sub>2</sub>,bu<sub>4</sub>,dul<sub>2</sub>,gigir<sub>2</sub>,&#x1E2B;ab<sub>2</sub>,pu<sub>2</sub>,tul<sub>2</sub>,ub<sub>4</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/LAGAB_TIMES_U.png'/>
+LAGAB&times;U+A,uma&#x1E2B;	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/LAGAB_TIMES_U_PLUS_A.png'/>
+LAGAB&times;U+U+U,BUL and LAGAB&times;E&#x0160;,bul,bur<sub>10</sub>,ninna<sub>2</sub>,tuku<sub>4</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/LAGAB_TIMES_U_PLUS_U_PLUS_U.png'/>
+LAGAR,lagar	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/LAGAR.png'/>
+LAGARgunu,DU<sub>6</sub>,du<sub>6</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/LAGAR_GUNU.png'/>
+LAGARgunu.DU,DU<sub>6</sub>.DU,e<sub>11</sub>,ed<sub>3</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/LAGAR_GUNU.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/DU.png'/>
+LAGARgunu/LAGARgunu.&#x0160;E	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/LAGAR_GUNU_OVER_LAGAR_GUNU_SHE.png'/>
+LAGARgunu/LAGARgunu.&#x0160;E.SAR,DU<sub>6</sub>/DU<sub>6</sub>.&#x0160;E.SAR,&#x0161;umunda	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/LAGAR_GUNU_OVER_LAGAR_GUNU_SHE.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/SAR.png'/>
+LAGAR&times;&#x0160;E,SU<sub>7</sub>,sur<sub>12</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/LAGAR_TIMES_SHE.png'/>
+LAL,la<sub>2</sub>,lal,suru<sub>5</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/LAL.png'/>
+LAL&times;LAL,LAL<sub>2</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/LAL_TIMES_LAL.png'/>
+LAL&times;LAL.DU,LAL<sub>2</sub>.DU,ukur<sub>3</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/LAL_TIMES_LAL.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/DU.png'/>
+LAL&times;LAL.LAGAB,LAL<sub>2</sub>.LAGAB,ni&#x011D;in<sub>5</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/LAL_TIMES_LAL.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/LAGAB.png'/>
+LAL&times;LAL.SAR,LAL<sub>2</sub>.TIMES.SAR,u&#x0161;ur	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/LAL_TIMES_LAL.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/SAR.png'/>
+LAM,e&#x0161;<sub>x</sub>,lam	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/LAM.png'/>
+LAM.KUR.RU,aratta	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/LAM.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/KUR.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/RU.png'/>
+LAM.KUR.RU.DA,aratta<sub>x</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/LAM.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/KUR.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/RU.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/DA.png'/>
+LI,en<sub>3</sub>,gub<sub>2</sub>,le,li	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/LI.png'/>
+LIL,lil,suku<sub>x</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/LIL.png'/>
+LIMMU<sub>2</sub>,limmu<sub>2</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/LIMMU2.png'/>
+LI&#x0160;,dilim<sub>2</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/LISH.png'/>
+LU,lu,lug,nu<sub>12</sub>,udu	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/LU.png'/>
+LU&times;BAD,AD<sub>3</sub>,ad<sub>3</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/LU_TIMES_BAD.png'/>
+LU<sub>2</sub>,lu<sub>2</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/LU2.png'/>
+LU<sub>2</sub>.KI,gurud<sub>2</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/LU2.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/KI.png'/>
+LU<sub>2</sub>.SU,&#x0161;ima&#x0161;ki	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/LU2.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/SU.png'/>
+LU<sub>2</sub>(inverted)LU<sub>2</sub>,GIGAM,inbir	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/LU2_OPPOSING_LU2.png'/>
+LU<sub>2</sub>&#x0161;e&#x0161;ig,ri<sub>9</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/LU2_SHESHIG.png'/>
+LU<sub>2</sub>&times;BAD,ad<sub>6</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/LU2_TIMES_BAD.png'/>
+LU<sub>2</sub>&times;GAN<sub>2</sub>tenu,LU<sub>2</sub>&times;KAR<sub>2</sub>,&#x0161;a&#x011D;a,&#x0161;e<sub>29</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/LU2_TIMES_GAN2_TENU.png'/>
+LU<sub>2</sub>&times;NE,du<sub>14</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/LU2_TIMES_NE.png'/>
+LU<sub>3</sub>,GUG<sub>2</sub>,gar<sub>5</sub>,gug<sub>2</sub>,lu<sub>3</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/LU3.png'/>
+LUGAL,lillan,lugal,rab<sub>3</sub>,&#x0161;arrum	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/LUGAL.png'/>
+LUGAL&#x0161;e&#x0161;ig,DIM<sub>3</sub>,dim<sub>3</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/LUGAL_SHESHIG.png'/>
+LUH,&#x1E2B;ulu&#x1E2B;,lu&#x1E2B;,sukkal	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/LUH.png'/>
+LUL,ka<sub>5</sub>,lib,lu<sub>5</sub>,lub,lul,nar,pa&#x1E2B;,&#x0161;atam	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/LUL.png'/>
+LUL.BALAG,tigi<sub>2</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/LUL.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/BALAG.png'/>
+LUM,gum<sub>2</sub>,gun<sub>5</sub>,guz,&#x1E2B;um,&#x1E2B;uz,lum,num<sub>2</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/LUM.png'/>
+MA,ma,pe&#x0161;<sub>3</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/MA.png'/>
+MAgunu,&#x1E2A;A&#x0160;&#x1E2A;UR,&#x1E2B;a&#x0161;&#x1E2B;ur	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/MA_GUNU.png'/>
+MA<sub>2</sub>,ma<sub>2</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/MA2.png'/>
+MA<sub>2</sub>.KASKAL.BALAG,sur<sub>x</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/MA2.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/KASKAL.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/BALAG.png'/>
+MA<sub>2</sub>.KASKAL.IGIgunu,SUR<sub>9</sub> and MA<sub>2</sub>.KASKAL.SIG<sub>7</sub>,sur<sub>9</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/MA2.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/KASKAL.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/IGI_GUNU.png'/>
+MA<sub>2</sub>.MUG,DIMGUL,dimgul	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/MA2.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/MUG.png'/>
+MAH,ma&#x1E2B;,&#x0161;utur	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/MAH.png'/>
+MAR,mar	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/MAR.png'/>
+MA&#x0160;,mas,ma&#x0161;,sa<sub>9</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/MASH.png'/>
+MA&#x0160;.GU<sub>2</sub>.GAR<sub>3</sub>,IDIGNA,dalla,idigna	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/MASH.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/GU2.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/GAR3.png'/>
+MA&#x0160;.PA,ma&#x0161;<sub>3</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/MASH.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/PA.png'/>
+MA&#x0160;<sub>2</sub>,ma&#x0161;<sub>2</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/MASH2.png'/>
+ME,ba<sub>13</sub>,i&#x0161;ib,me,men<sub>2</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/ME.png'/>
+MES,ki&#x0161;ib,me&#x0161;<sub>3</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/MES.png'/>
+MI,gig<sub>2</sub>,&#x011D;i<sub>6</sub>,ku<sub>10</sub>,me<sub>2</sub>,mi	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/MI.png'/>
+MIN,2,min	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/MIN.png'/>
+MU,&#x011D;u<sub>10</sub>,mu,mu&#x1E2B;aldim	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/MU.png'/>
+MU.U&#x0160;.TUG<sub>2</sub>.PI,mu&#x0161;tug<sub>2</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/MU.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/USH.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/TUG2.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/PI.png'/>
+MU/MU,DA&#x1E2A;,da&#x1E2B;,ta&#x1E2B;	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/MU_OVER_MU.png'/>
+MUG,mug	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/MUG.png'/>
+MUNSUB,MUN&#x0160;UB,sumur<sub>3</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/MUNSUB.png'/>
+MURGU<sub>2</sub>,murgu<sub>2</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/MURGU2.png'/>
+MU&#x0160;,mu&#x0161;,nira&#x1E2B;,su&#x1E2B;<sub>x</sub>,&#x0161;uba<sub>x</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/MUSH.png'/>
+MU&#x0160;.&#x0160;A,&#x0161;uba<sub>x</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/MUSH.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/SHA.png'/>
+MU&#x0160;/MU&#x0160;,ri<sub>8</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/MUSH_OVER_MUSH.png'/>
+MU&#x0160;/MU&#x0160;&times;A+NA,erina<sub>8</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/MUSH_OVER_MUSH_TIMES_A_PLUS_NA.png'/>
+MU&#x0160;<sub>3</sub>,inana,mu&#x0161;<sub>3</sub>,sed<sub>6</sub>,su&#x1E2B;<sub>10</sub>,&#x0161;uba<sub>4</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/MUSH3.png'/>
+MU&#x0160;<sub>3</sub>.BU,susbu<sub>3</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/MUSH3.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/BU.png'/>
+MU&#x0160;<sub>3</sub>.DI,sed<sub>4</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/MUSH3.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/DI.png'/>
+MU&#x0160;<sub>3</sub>.EREN,&#x0161;u&#x0161;in	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/MUSH3.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/EREN.png'/>
+MU&#x0160;<sub>3</sub>.ZA,&#x0161;uba<sub>3</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/MUSH3.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/ZA.png'/>
+MU&#x0160;<sub>3</sub>gunu,MU&#x0160;<sub>2</sub>,mu&#x0161;<sub>2</sub>,su&#x1E2B;,susbu<sub>2</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/MUSH3_GUNU.png'/>
+MU&#x0160;<sub>3</sub>gunu.BU,MU&#x0160;<sub>2</sub>.BU,susbu	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/MUSH3_GUNU.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/BU.png'/>
+MU&#x0160;<sub>3</sub>&times;A	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/MUSH3_TIMES_A.png'/>
+MU&#x0160;<sub>3</sub>&times;A+DI,SED,sed	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/MUSH3_TIMES_A_PLUS_DI.png'/>
+NA,na	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/NA.png'/>
+NA<sub>2</sub>,na<sub>2</sub>,nu<sub>2</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/NA2.png'/>
+NAGA,ere&#x0161;<sub>2</sub>,na&#x011D;a,nisaba<sub>2</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/NAGA.png'/>
+NAGA(inverted),teme	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/NAGA_INVERTED.png'/>
+NAGAR,nagar	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/NAGAR.png'/>
+NAGAR.ZAtenu,TUGUL,tugul	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/NAGAR.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/ZA_TENU.png'/>
+NAM,bir<sub>5</sub>,nam,sim,sin<sub>2</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/NAM.png'/>
+NAM.LUGAL,pala	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/NAM.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/LUGAL.png'/>
+NAM.SAL.TUG<sub>2</sub>,NAM.NIN and NAM.MUNUS.TUG<sub>2</sub>,pala<sub>3</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/NAM.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/SAL.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/TUG2.png'/>
+NE,bar<sub>7</sub>,be<sub>7</sub>,bi<sub>2</sub>,bil,de<sub>3</sub>,du<sub>17</sub>,gibil<sub>4</sub>,izi,kum<sub>2</sub>,lam<sub>2</sub>,lem<sub>4</sub>,li<sub>9</sub>,ne,ni<sub>5</sub>,pel,pil,sa&#x1E2B;ar<sub>x</sub>,&#x0161;e&#x011D;<sub>6</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/NE.png'/>
+NE.GI,gibil<sub>6</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/NE.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/GI.png'/>
+NE.RU,erim<sub>2</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/NE.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/RU.png'/>
+NE&#x0161;e&#x0161;ig,BIL<sub>2</sub>,bil<sub>2</sub>,gibil,pel<sub>2</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/NE_SHESHIG.png'/>
+NI,be<sub>3</sub>,dig,i<sub>3</sub>,ia<sub>3</sub>,le<sub>2</sub>,li<sub>2</sub>,lid<sub>2</sub>,ne<sub>2</sub>,ni,su&#x0161;<sub>2</sub>,zal,zar<sub>2</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/NI.png'/>
+NI.TUK,dilmun	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/NI.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/TUK.png'/>
+NI.UD,NA<sub>4</sub>,ia<sub>4</sub>,na<sub>4</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/NI.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/UD.png'/>
+NIM,de&#x1E2B;i<sub>3</sub>,elam,nim,tum<sub>4</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/NIM.png'/>
+NIM&times;GAN<sub>2</sub>tenu,TUM<sub>3</sub> and NIM&times;KAR<sub>2</sub>,tum<sub>3</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/NIM_TIMES_GAN2_TENU.png'/>
+NINDA<sub>2</sub>,inda,ninda<sub>2</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/NINDA2.png'/>
+NINDA<sub>2</sub>&times;GUD,NINDA<sub>2</sub>&times;GU<sub>4</sub>,indagara	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/NINDA2_TIMES_GUD.png'/>
+NINDA<sub>2</sub>&times;NE,AG<sub>2</sub>,a&#x011D;<sub>2</sub>,e&#x011D;<sub>3</sub>,em<sub>3</sub>,i&#x011D;<sub>3</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/NINDA2_TIMES_NE.png'/>
+NINDA<sub>2</sub>&times;&#x0160;E,&#x0160;AM<sub>2</sub>,sa<sub>10</sub>,sam<sub>2</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/NINDA2_TIMES_SHE.png'/>
+NISAG,nesa&#x011D;	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/NISAG.png'/>
+NU,nu,sir<sub>5</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/NU.png'/>
+NU<sub>11</sub>,nu<sub>11</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/NU11.png'/>
+NU<sub>11</sub>.BUR,buru<sub>4</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/NU11.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/BUR.png'/>
+NU<sub>11</sub>.BUR.LA,laga&#x0161;	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/NU11.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/BUR.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/LA.png'/>
+NU<sub>11</sub>.SILA<sub>3</sub>,&#x011D;izzal<sub>2</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/NU11.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/SILA3.png'/>
+NUN,eridug,nun,sil<sub>2</sub>,zil	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/NUN.png'/>
+NUN.LAGAR,TUR<sub>3</sub>,immal<sub>x</sub>,&#x0161;ilam<sub>x</sub>,tur<sub>3</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/NUN.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/LAGAR.png'/>
+NUN.ME,abgal	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/NUN.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/ME.png'/>
+NUN.ME.DU,abrig	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/NUN.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/ME.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/DU.png'/>
+NUN.ME.KA&times;GAN<sub>2</sub>tenu,NUN.ME.PU<sub>3</sub>,abgal<sub>2</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/NUN.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/ME.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/KA_TIMES_GAN2_TENU.png'/>
+NUN.ME.TAG,ga&#x0161;am	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/NUN.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/ME.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/TAG.png'/>
+NUNUZ,nida,nunuz,nus	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/NUNUZ.png'/>
+NUNUZ.AB<sub>2</sub>&times;A&#x0160;GAB,USAN<sub>3</sub>,usan<sub>3</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/NUNUZ_AB2_TIMES_ASHGAB.png'/>
+NUNUZ.AB<sub>2</sub>&times;LA,LA&#x1E2A;TAN,la&#x1E2B;tan	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/NUNUZ_AB2_TIMES_LA.png'/>
+NUN.LAGAR&times;MA&#x0160;,IMMAL,immal	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/NUN_LAGAR_TIMES_MASH.png'/>
+NUN.LAGAR&times;SAL,&#x0160;ILAM,ar&#x1E2B;u&#x0161;<sub>2</sub>,immal<sub>2</sub>,&#x0161;ilam	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/NUN_LAGAR_TIMES_SAL.png'/>
+NUN/NUN,NIR,nir,ri<sub>5</sub>,&#x0161;er<sub>7</sub>,tir<sub>x</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/NUN_OVER_NUN.png'/>
+NUNtenu,agargara,gar<sub>x</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/NUN_TENU.png'/>
+NUNtenu.KI,gurud	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/NUN_TENU.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/KI.png'/>
+PA,&#x011D;idru,&#x1E2B;endur,kum<sub>x</sub>,kun<sub>2</sub>,mu<sub>6</sub>,mudru,pa,sag<sub>3</sub>,sig<sub>3</sub>,u<sub>x</sub>,ugula	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/PA.png'/>
+PA.AL,&#x0161;abra	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/PA.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/AL.png'/>
+PA.AN,biluda,&#x011D;arza	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/PA.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/AN.png'/>
+PA.DAG.KISIM<sub>5</sub>&times;KAK,PA.DAG.KISIM<sub>5</sub>&times;GAG,kabar	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/PA.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/DAG_KISIM5_TIMES_KAK.png'/>
+PA.DU&#x0161;e&#x0161;ig,PA.KA&#x0160;<sub>4</sub>,ma&#x0161;kim	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/PA.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/DU_SHESHIG.png'/>
+PA.GAN,sag<sub>2</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/PA.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/GAN.png'/>
+PA.GISAL.SI.A,addir<sub>x</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/PA.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/GISAL.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/SI.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/A.png'/>
+PA.GISAL.SI.A.PAD,addir<sub>x</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/PA.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/GISAL.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/SI.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/A.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/PAD.png'/>
+PA.HUB<sub>2</sub>.DU,rig<sub>7</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/PA.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/HUB2.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/DU.png'/>
+PA.IB,&#x0160;AB,&#x0161;ab	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/PA.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/IB.png'/>
+PA.LU,SIPA,sipad	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/PA.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/LU.png'/>
+PA.LUGAL,&#x011D;arza<sub>2</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/PA.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/LUGAL.png'/>
+PA.&#x0160;E,i&#x0161;in	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/PA.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/SHE.png'/>
+PA.TE.SI,ensi<sub>2</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/PA.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/TE.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/SI.png'/>
+PA.TUG<sub>2</sub>,NUSKA,nuska	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/PA.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/TUG2.png'/>
+PA.URU&times;MIN,PA.GI&#x0160;GAL,zilulu	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/PA.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/URU_TIMES_MIN.png'/>
+PA.UZU,tud<sub>2</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/PA.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/UZU.png'/>
+PAD,kurum<sub>6</sub>,pa<sub>x</sub>,pad,&#x0161;ukur<sub>2</sub>,&#x0161;utug	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/PAD.png'/>
+PAD.AN.MU&#x0160;<sub>3</sub>,nidba	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/PAD.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/AN.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/MUSH3.png'/>
+PAD.MU&#x0160;<sub>3</sub>,nidba<sub>2</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/PAD.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/MUSH3.png'/>
+PAN,pan	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/PAN.png'/>
+PAP,kur<sub>2</sub>,pa<sub>4</sub>,pap	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/PAP.png'/>
+PAP.E,PAB.E,pa<sub>5</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/PAP.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/E.png'/>
+PAP.IGIgunu,PAB.SIG<sub>7</sub>,isimud	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/PAP.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/IGI_GUNU.png'/>
+PAP.IGIgunu.NUN.ME,PAB.SIG<sub>7</sub>.NUN.ME,isimud<sub>4</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/PAP.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/IGI_GUNU.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/NUN.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/ME.png'/>
+PAP.NA<sub>2</sub>,GAM<sub>3</sub> and PAB.NA<sub>2</sub>,gam<sub>3</sub>,zub,zubi	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/PAP.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/NA2.png'/>
+PAP.NUN.ME.EZEN,isimud<sub>x</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/PAP.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/NUN.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/ME.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/EZEN.png'/>
+PAP.PAP,BULUG<sub>3</sub>,bulu&#x011D;<sub>3</sub>,dim<sub>4</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/PAP.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/PAP.png'/>
+PAP.&#x0160;E.PAP,MUNU<sub>4</sub>,munu<sub>4</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/PAP.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/SHE.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/PAP.png'/>
+PE&#x0160;<sub>2</sub>,kilim,pe&#x0161;<sub>2</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/PESH2.png'/>
+PI,be<sub>6</sub>,bi<sub>3</sub>,&#x011D;e&#x0161;tug,me<sub>8</sub>,pa<sub>12</sub>,pe,pi,tal<sub>2</sub>,wa,we,wi	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/PI.png'/>
+PIRIG,ne<sub>3</sub>,niskum,piri&#x011D;	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/PIRIG.png'/>
+PIRIG.ABgunu.GAL,PIRIG.UNUG.GAL,nergal	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/PIRIG.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/AB_GUNU.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/GAL.png'/>
+PIRIG.AB&times;GAL,nergal<sub>x</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/PIRIG.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/AB_TIMES_GAL.png'/>
+PIRIG.TUR,nemur<sub>x</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/PIRIG.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/TUR.png'/>
+PIRIG(inverted)PIRIG,tidnim,tidnum	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/PIRIG_OPPOSING_PIRIG.png'/>
+PIRIG&times;UD,UG,piri&#x011D;<sub>3</sub>,ug,uk,uq	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/PIRIG_TIMES_UD.png'/>
+PIRIG&times;ZA,AZ,az	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/PIRIG_TIMES_ZA.png'/>
+RA,ra	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/RA.png'/>
+RI,dal,de<sub>5</sub>,re,ri,rig<sub>5</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/RI.png'/>
+RU,ilar,ru,&#x0161;ub	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/RU.png'/>
+SA,sa	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/SA.png'/>
+SAG,dul<sub>7</sub>,sa<sub>12</sub>,sa&#x011D;,&#x0161;ak	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/SAG.png'/>
+SAG.PA.LAGAB,zara&#x1E2B;	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/SAG.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/PA.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/LAGAB.png'/>
+SAGgunu,DUL<sub>3</sub>,dul<sub>3</sub>,ku&#x0161;<sub>2</sub>,ku&#x0161;u<sub>4</sub>,sumur,sur<sub>2</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/SAG_GUNU.png'/>
+SAG&times;&#x0160;ID,DILIB<sub>3</sub>,dilib<sub>3</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/SAG_TIMES_SHID.png'/>
+SAG&times;U<sub>2</sub>,uzug<sub>3</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/SAG_TIMES_U2.png'/>
+SAL,MUNUS,gal<sub>4</sub>,mi<sub>2</sub>,munus,sal	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/SAL.png'/>
+SAL.AN&#x0160;E,MUNUS.AN&#x0160;E,eme<sub>3</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/SAL.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/ANSHE.png'/>
+SAL.E&#x0160;<sub>2</sub>,EGI<sub>2</sub> and MUNUS.&#x0160;E<sub>3</sub>,egir<sub>3</sub>,nin<sub>x</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/SAL.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/ESH2.png'/>
+SAL.GA<sub>2</sub>&times;PA,MUNUS.SILA<sub>4</sub>,kir<sub>11</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/SAL.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/GA2_TIMES_PA.png'/>
+SAL.HUB<sub>2</sub>,MUNUS.&#x1E2A;UB<sub>2</sub>,eme<sub>5</sub>,lagar<sub>3</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/SAL.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/HUB2.png'/>
+SAL.KU,MUNUS.KU,nin<sub>9</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/SAL.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/KU.png'/>
+SAL.KUR,GEME<sub>2</sub> and MUNUS.KUR,geme<sub>2</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/SAL.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/KUR.png'/>
+SAL.LAGAR,MUNUS.LAGAR,murub<sub>2</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/SAL.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/LAGAR.png'/>
+SAL.ME,MUNUS.ME,lukur	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/SAL.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/ME.png'/>
+SAL.TUG<sub>2</sub>,NIN and MUNUS.TUG<sub>2</sub>,e<sub>5</sub>,ere&#x0161;,nin	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/SAL.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/TUG2.png'/>
+SAL.TUG<sub>2</sub>.PAP.IGIgunu.NUN.ME.EZEN&times;KASKAL,NIN.PAB.SIG<sub>7</sub>.NUN.ME.UBARA,ninkum	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/SAL.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/TUG2.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/PAP.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/IGI_GUNU.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/NUN.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/ME.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/EZEN_TIMES_KASKAL.png'/>
+SAL.UD.EDIN,MUNUS.UD.EDIN,murum<sub>5</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/SAL.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/UD.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/EDIN.png'/>
+SAL.UR,NIG and MUNUS.UR,nig	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/SAL.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/UR.png'/>
+SAL.U&#x0160;,MUNUS.U&#x0160;,nitalam<sub>4</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/SAL.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/USH.png'/>
+SAL.U&#x0160;.DAM,MUNUS.U&#x0160;.DAM,nitalam	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/SAL.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/USH.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/DAM.png'/>
+SAL.U&#x0160;.DI,MUNUS.U&#x0160;.DI,mussa	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/SAL.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/USH.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/DI.png'/>
+SAL.U&#x0160;.DI.KID,gambi<sub>x</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/SAL.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/USH.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/DI.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/KID.png'/>
+SAR,kiri<sub>6</sub>,mu<sub>2</sub>,nisig,sa&#x1E2B;ar<sub>2</sub>,sakar,sar,sig<sub>x</sub>,&#x0161;ar	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/SAR.png'/>
+SI,si,sig<sub>9</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/SI.png'/>
+SI.A,DIR,dirig,sa<sub>5</sub>,u&#x0161;ub	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/SI.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/A.png'/>
+SIgunu,SU<sub>4</sub>,sa<sub>11</sub>,su<sub>4</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/SI_GUNU.png'/>
+SIG,si<sub>11</sub>,sig,sik,&#x0161;e<sub>x</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/SIG.png'/>
+SIG<sub>4</sub>,&#x011D;ar<sub>8</sub>,kulla,murgu,&#x0161;eg<sub>12</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/SIG4.png'/>
+SIK<sub>2</sub>,siki	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/SIK2.png'/>
+SIK<sub>2</sub>.SUD,zulum&#x1E2B;i	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/SIK2.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/SUD.png'/>
+SILA<sub>3</sub>,qa,sal<sub>4</sub>,sila<sub>3</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/SILA3.png'/>
+SILA<sub>3</sub>.&#x0160;U.GABA,sagi	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/SILA3.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/SHU.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/GABA.png'/>
+SU,ku&#x0161;,su,sug<sub>6</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/SU.png'/>
+SU.KUR.RU,sud<sub>3</sub>,&#x0161;uruppag	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/SU.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/KUR.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/RU.png'/>
+SUD,su<sub>3</sub>,sud,sug<sub>4</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/SUD.png'/>
+SUD<sub>2</sub>,sud<sub>2</sub>,&#x0161;ita<sub>3</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/SUD2.png'/>
+SUHUR,su&#x1E2B;ur,sumur<sub>2</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/SUHUR.png'/>
+SUM,si<sub>3</sub>,sig<sub>10</sub>,sum,&#x0161;um<sub>2</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/SUM.png'/>
+SUR,sur	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/SUR.png'/>
+&#x0160;A,en<sub>8</sub>,&#x0161;a	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/SHA.png'/>
+&#x0160;A<sub>3</sub>,pe&#x0161;<sub>x</sub>,&#x0161;a<sub>3</sub>,&#x0161;ag<sub>4</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/SHA3.png'/>
+&#x0160;A<sub>3</sub>&times;A,PE&#x0160;<sub>4</sub>,bir<sub>7</sub>,i&#x0161;kila,pe&#x0161;<sub>4</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/SHA3_TIMES_A.png'/>
+&#x0160;A<sub>3</sub>&times;NE,ninim	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/SHA3_TIMES_NE.png'/>
+&#x0160;A<sub>3</sub>&times;TUR,pe&#x0161;<sub>13</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/SHA3_TIMES_TUR.png'/>
+&#x0160;A<sub>6</sub>,SA<sub>6</sub>,&#x011D;i&#x0161;nimbar,sa<sub>6</sub>,sag<sub>9</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/SHA6.png'/>
+&#x0160;E,niga,&#x0161;e	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/SHE.png'/>
+&#x0160;E.E&#x0160;<sub>2</sub>.NUN.BU,&#x0160;E.&#x0160;E<sub>3</sub>.NUN.BU,saman<sub>3</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/SHE.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/ESH2.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/NUN.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/BU.png'/>
+&#x0160;E.HU,UZ,us,uz	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/SHE.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/HU.png'/>
+&#x0160;E.HU.TUR,UZ.TUR,bibad	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/SHE.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/HU.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/TUR.png'/>
+&#x0160;E.KAK,&#x0160;E.GAG,&#x1E2B;enbur<sub>2</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/SHE.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/KAK.png'/>
+&#x0160;E.NAGA,nisaba	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/SHE.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/NAGA.png'/>
+&#x0160;E.TIR,ezim<sub>2</sub>,ezina<sub>2</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/SHE.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/TIR.png'/>
+&#x0160;E/&#x0160;E.TAB/TAB.GAR/GAR,garadin<sub>3</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/SHE_OVER_SHE_TAB_OVER_TAB_GAR_OVER_GAR.png'/>
+&#x0160;EG<sub>9</sub>,ki&#x0161;i<sub>6</sub>,&#x0161;eg<sub>9</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/SHEG9.png'/>
+&#x0160;EG<sub>9</sub>.AN	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/SHEG9.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/AN.png'/>
+&#x0160;EN,dur<sub>10</sub>,&#x0161;en	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/SHEN.png'/>
+&#x0160;E&#x0160;,mun<sub>4</sub>,mu&#x0161;<sub>5</sub>,sis,&#x0161;e&#x0161;	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/SHESH.png'/>
+&#x0160;E&#x0160;.AB,urim<sub>5</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/SHESH.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/AB.png'/>
+&#x0160;E&#x0160;.ABgunu,&#x0160;E&#x0160;.UNUG,urim<sub>2</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/SHESH.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/AB_GUNU.png'/>
+&#x0160;E&#x0160;.KI,nanna	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/SHESH.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/KI.png'/>
+&#x0160;E&#x0160;<sub>2</sub>,&#x0161;e<sub>8</sub>,&#x0161;e&#x0161;<sub>2</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/SHESH2.png'/>
+&#x0160;ID,kas<sub>7</sub>,kiri<sub>8</sub>,lag,nesa&#x011D;<sub>2</sub>,pisa&#x011D;<sub>2</sub>,sa&#x011D;<sub>5</sub>,sa&#x011D;&#x011D;a,sila&#x011D;,&#x0161;id,&#x0161;ub<sub>6</sub>,&#x0161;udum	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/SHID.png'/>
+&#x0160;ID&times;A,UMBISAG<sub>2</sub>,alal,pisa&#x011D;<sub>3</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/SHID_TIMES_A.png'/>
+&#x0160;IM,bappir<sub>2</sub>,lunga,mud<sub>5</sub>,&#x0161;em,&#x0161;embi<sub>2</sub>,&#x0161;im,&#x0161;embizid	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/SHIM.png'/>
+&#x0160;IM.AN.SAL.TUG<sub>2</sub>.IB,&#x0160;IM.AN.NIN.IB,ligidba	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/SHIM.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/AN.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/SAL.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/TUG2.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/IB.png'/>
+&#x0160;IM&times;GAR,&#x0160;IM&times;NIG<sub>2</sub>,bappir,lunga<sub>3</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/SHIM_TIMES_GAR.png'/>
+&#x0160;IM&times;IGIgunu,&#x0160;IM&times;SIG<sub>7</sub>,&#x0161;embi	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/SHIM_TIMES_IGI_GUNU.png'/>
+&#x0160;IM&times;KU&#x0160;U<sub>2</sub>,&#x0161;embulug<sub>x</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/SHIM_TIMES_KUSHU2.png'/>
+&#x0160;INIG,&#x0161;inig	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/SHINIG.png'/>
+&#x0160;IR,a&#x0161;<sub>7</sub>,&#x0161;ir	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/SHIR.png'/>
+&#x0160;ITA,&#x0161;ita	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/SHITA.png'/>
+&#x0160;ITA.GI&#x0160;,&#x0160;ITA<sub>2</sub>,&#x0161;ita<sub>2</sub>,udug<sub>2</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/SHITA.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/GISH.png'/>
+&#x0160;U,&#x0161;u	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/SHU.png'/>
+&#x0160;U.BU,dulu	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/SHU.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/BU.png'/>
+&#x0160;U.DI.U.U.U,&#x0160;U.DI.E&#x0160;,su&#x1E2B;ub<sub>4</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/SHU.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/DI.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/U_U_U.png'/>
+&#x0160;U.GAR.TUR.LAL,&#x0160;U.NIG<sub>2</sub>.TUR.LAL,tukum	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/SHU.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/GAR.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/TUR.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/LAL.png'/>
+&#x0160;U.KAL,lirum	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/SHU.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/KAL.png'/>
+&#x0160;U.NAGA,tu<sub>5</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/SHU.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/NAGA.png'/>
+&#x0160;U.PAP.PAP,&#x0160;U.BULUG<sub>3</sub>,&#x011D;e&#x0161;pu<sub>2</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/SHU.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/PAP.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/PAP.png'/>
+&#x0160;U.SILA<sub>3</sub>.GABA,sagi<sub>x</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/SHU.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/SILA3.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/GABA.png'/>
+&#x0160;U.U.U.U.DI,su&#x1E2B;ub<sub>x</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/SHU.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/U_U_U.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/DI.png'/>
+&#x0160;U<sub>2</sub>,&#x0161;u<sub>2</sub>,&#x0161;u&#x0161;<sub>2</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/SHU2.png'/>
+&#x0160;U<sub>2</sub>.AN.HI&times;GAD,KE&#x0160;<sub>3</sub>,ke&#x0161;<sub>3</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/SHU2.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/AN.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/HI_TIMES_GAD.png'/>
+&#x0160;U<sub>2</sub>.AN/AN.AN,KUNGA and &#x0160;U<sub>2</sub>.MUL,kunga	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/SHU2.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/AN_OVER_AN.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/AN.png'/>
+&#x0160;U<sub>2</sub>.A&#x0160;<sub>2</sub>,GIBIL<sub>2</sub>,gibil<sub>2</sub>,kibir<sub>2</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/SHU2.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/ASH2.png'/>
+&#x0160;U<sub>2</sub>.DUN<sub>3</sub>gunugunu&#x0161;e&#x0161;ig,&#x0160;UDUN and &#x0160;U<sub>2</sub>.DUN<sub>4</sub>,&#x0161;udul	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/SHU2.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/DUN3_GUNU_GUNU_SHESHIG.png'/>
+&#x0160;UBUR,&#x0161;a&#x1E2B;,&#x0161;ubur	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/SHUBUR.png'/>
+TA,da<sub>2</sub>,ta	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/TA.png'/>
+TA&times;HI,LAL<sub>3</sub>,alamu&#x0161;,lal<sub>3</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/TA_TIMES_HI.png'/>
+TAB,dab<sub>2</sub>,tab,tap	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/TAB.png'/>
+TAB.GAR.&#x0160;E,garadin<sub>x</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/TAB.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/GAR.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/SHE.png'/>
+TAB.KUN,MEGIDDA<sub>2</sub>,megida<sub>2</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/TAB.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/KUN.png'/>
+TAG,sub<sub>6</sub>,&#x0161;um,tag,tibir,tuku<sub>5</sub>,zil<sub>2</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/TAG.png'/>
+TAG&times;&#x0160;U,tibir<sub>2</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/TAG_TIMES_SHU.png'/>
+TAG&times;TUG<sub>2</sub>,uttu	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/TAG_TIMES_TUG2.png'/>
+TAK<sub>4</sub>,KID<sub>2</sub>,da<sub>13</sub>,kid<sub>2</sub>,tak<sub>4</sub>,taka<sub>4</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/TAK4.png'/>
+TAK<sub>4</sub>.IM,kid<sub>x</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/TAK4.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/IM.png'/>
+TAR,&#x1E2B;a&#x0161;,ku<sub>5</sub>,kud,kur<sub>5</sub>,sila,tar	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/TAR.png'/>
+TE,gal<sub>5</sub>,te,te&#x011D;<sub>3</sub>,temen,ten	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/TE.png'/>
+TE.A,KAR,kar	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/TE.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/A.png'/>
+TE.AB,unu<sub>6</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/TE.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/AB.png'/>
+TE.ABgunu,TE.UNUG,unu<sub>2</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/TE.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/AB_GUNU.png'/>
+TEgunu,GUR<sub>8</sub>,gur<sub>8</sub>,ten<sub>x</sub>,uru<sub>5</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/TE_GUNU.png'/>
+TEgunu.ABgunu,GUR<sub>8</sub>.UNUG,unu<sub>7</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/TE_GUNU.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/AB_GUNU.png'/>
+TI,de<sub>9</sub>,di<sub>3</sub>,ti,ti&#x011D;<sub>4</sub>,til<sub>3</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/TI.png'/>
+TIL,sumun,&#x0161;umun,til	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/TIL.png'/>
+TIR,ezina<sub>3</sub>,ter,tir	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/TIR.png'/>
+TU,du<sub>2</sub>,tu,tud,tum<sub>12</sub>,tur<sub>5</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/TU.png'/>
+TUG<sub>2</sub>,azlag<sub>2</sub>,dul<sub>5</sub>,mu<sub>4</sub>,mur<sub>10</sub>,nam<sub>2</sub>,ta&#x0161;karin,tuba<sub>x</sub>,tug<sub>2</sub>,tuku<sub>2</sub>,umu&#x0161;	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/TUG2.png'/>
+TUG<sub>2</sub>.UD,azlag	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/TUG2.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/UD.png'/>
+TUK,du<sub>12</sub>,tuk,tuku	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/TUK.png'/>
+TUM,dum,eb<sub>2</sub>,ib<sub>2</sub>,tum	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/TUM.png'/>
+TUR,ban<sub>3</sub>,banda<sub>3</sub>,di<sub>4</sub>,dumu,tur	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/TUR.png'/>
+TUR.DI&#x0160;,genna	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/TUR.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/DISH.png'/>
+TUR.E&#x0160;<sub>2</sub>,TUR.&#x0160;E<sub>3</sub>,kun<sub>5</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/TUR.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/ESH2.png'/>
+TUR.U&#x0160;,ibila	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/TUR.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/USH.png'/>
+U,bur<sub>3</sub>,buru<sub>3</sub>,&#x0161;u<sub>4</sub>,u	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/U.png'/>
+U.AD,GIR<sub>4</sub>,gir<sub>4</sub>,isimu<sub>3</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/U.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/AD.png'/>
+U.DIM,GAKKUL<sub>3</sub>,gakkul<sub>3</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/U.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/DIM.png'/>
+U.DIM&times;&#x0160;E,GAKKUL and U.MUN,gakkul	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/U.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/DIM_TIMES_SHE.png'/>
+U.EN&times;GAN<sub>2</sub>tenu,&#x0160;IBIR and U.BURU<sub>14</sub>,&#x0161;ibir	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/U.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/EN_TIMES_GAN2_TENU.png'/>
+U.GA,UTU<sub>2</sub>,uta&#x1E2B;	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/U.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/GA.png'/>
+U.GAN,&#x0160;AGAN,&#x0161;a&#x011D;an	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/U.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/GAN.png'/>
+U.GUD,UL,du<sub>7</sub>,ul	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/U_GUD.png'/>
+U.KA,UGU,ugu	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/U.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/KA.png'/>
+U.KID,&#x0160;ITA<sub>4</sub>,&#x0161;ita<sub>4</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/U.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/KID.png'/>
+U.MU,UDUN,udun	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/U.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/MU.png'/>
+U.PIRIG,KU&#x0160;U,ku&#x0161;u,ku&#x0161;um<sub>4</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/U.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/PIRIG.png'/>
+U.SAG,SAG&#x0160;U,sa&#x011D;&#x0161;u	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/U.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/SAG.png'/>
+U.TUG<sub>2</sub>,DUL and &#x0160;U<sub>4</sub>.DUL<sub>5</sub>,dul,&#x0161;udul<sub>2</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/U.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/TUG2.png'/>
+U.U,MAN,men<sub>5</sub>,min<sub>3</sub>,puzur<sub>2</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/U.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/U.png'/>
+U.U.U,E&#x0160;,es<sub>2</sub>,e&#x0161;	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/U_U_U.png'/>
+U/U.PA/PA.GAR/GAR,garadin<sub>10</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/U_OVER_U_PA_OVER_PA_GAR_OVER_GAR.png'/>
+U/U.SUR/SUR,garadin<sub>9</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/U_OVER_U_SUR_OVER_SUR.png'/>
+U.UD.KID,NIGIN<sub>3</sub>,ni&#x011D;in<sub>3</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/U.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/UD.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/KID.png'/>
+U<sub>2</sub>,ku&#x0161;<sub>3</sub>,u<sub>2</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/U2.png'/>
+U<sub>2</sub>.GIR<sub>2</sub>gunu,ad<sub>5</sub>,ki&#x0161;i<sub>16</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/U2.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/GIR2_GUNU.png'/>
+U<sub>2</sub>.KI.SUM.GA,gud<sub>3</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/U2.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/KI.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/SUM.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/GA.png'/>
+U<sub>2</sub>.NAGA,uga<sub>x</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/U2.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/NAGA.png'/>
+U<sub>2</sub>.NAGA.GA,uga	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/U2.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/NAGA.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/GA.png'/>
+U<sub>2</sub>.SA,dida	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/U2.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/SA.png'/>
+UB,ar<sub>2</sub>,ub,up	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/UB.png'/>
+UD,a<sub>12</sub>,babbar,bir<sub>2</sub>,dag<sub>2</sub>,&#x1E2B;ad<sub>2</sub>,&#x0161;ama&#x0161;,tam,u<sub>4</sub>,ud,ut,utu,zalag	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/UD.png'/>
+UD.ABgunu,UD.UNUG,larsam	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/UD.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/AB_GUNU.png'/>
+UD.AN.&#x0160;E&#x0160;.KI,iti<sub>6</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/UD.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/AN.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/SHESH.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/KI.png'/>
+UD.DU,e<sub>3</sub>,ed<sub>2</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/UD.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/DU.png'/>
+UD.GI&#x0160;%GI&#x0160;.NUN,UD.KIB.NUN,buranun,buranuna,zimbir	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/UD.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/GISH_CROSSING_GISH.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/NUN.png'/>
+UD.KA.BAR,zabar	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/UD.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/KA.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/BAR.png'/>
+UD.KU&#x0160;U<sub>2</sub>,U&#x1E2A;<sub>2</sub>,a&#x1E2B;<sub>6</sub>,ak&#x0161;ak,u&#x1E2B;<sub>2</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/UD_KUSHU2.png'/>
+UD.MA<sub>2</sub>.AB&times;HA.KI.TAG,UD.MA<sub>2</sub>.NINA.KI.TAG,sirara<sub>6</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/UD.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/MA2.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/AB_TIMES_HA.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/KI.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/TAG.png'/>
+UD.MA<sub>2</sub>.AB&times;HA.&#x0160;IR,UD.MA<sub>2</sub>.NINA.&#x0160;IR,sirara<sub>2</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/UD.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/MA2.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/AB_TIMES_HA.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/SHIR.png'/>
+UD.MA<sub>2</sub>.AB&times;HA.TAG,UD.MA<sub>2</sub>.NINA.TAG,sirara<sub>3</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/UD.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/MA2.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/AB_TIMES_HA.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/TAG.png'/>
+UD.NUN,adab,surungal	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/UD.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/NUN.png'/>
+UD.SAL.HUB<sub>2</sub>,UD.MUNUS.&#x1E2A;UB<sub>2</sub>,algame&#x0161;	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/UD.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/SAL.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/HUB2.png'/>
+UD.SAR,&#x0161;arag	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/UD.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/SAR.png'/>
+UD.UD,babbar<sub>2</sub>,dadag	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/UD.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/UD.png'/>
+UD&times;U+U+U,ITI,itid	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/UD_TIMES_U_PLUS_U_PLUS_U.png'/>
+UD&times;U+U+U.AN.&#x0160;E&#x0160;.KI,ITI.AN.&#x0160;E&#x0160;.KI,iti<sub>7</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/UD_TIMES_U_PLUS_U_PLUS_U.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/AN.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/SHESH.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/KI.png'/>
+UD&times;U+U+Ugunu,MURU<sub>2</sub> and ITIgunu,murub<sub>4</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/UD_TIMES_U_PLUS_U_PLUS_U_GUNU.png'/>
+UDUG,udug	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/UDUG.png'/>
+UM,de&#x1E2B;i<sub>2</sub>,um	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/UM.png'/>
+UM.ME,emeda	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/UM.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/ME.png'/>
+UMUM,simug,umum,umun<sub>2</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/UMUM.png'/>
+UMUM&times;KASKAL,DE<sub>2</sub>,abzu<sub>x</sub>,de<sub>2</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/UMUM_TIMES_KASKAL.png'/>
+UN,kalam,u&#x011D;<sub>3</sub>,un	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/UN.png'/>
+UR,te&#x0161;<sub>2</sub>,ur	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/UR.png'/>
+UR&#x0161;e&#x0161;ig,dul<sub>9</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/UR_SHESHIG.png'/>
+UR<sub>2</sub>,ur<sub>2</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/UR2.png'/>
+UR<sub>2</sub>&times;NUN,u&#x0161;bar	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/UR2_TIMES_NUN.png'/>
+UR<sub>2</sub>&times;U<sub>2</sub>,u&#x0161;bar<sub>7</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/UR2_TIMES_U2.png'/>
+UR<sub>2</sub>&times;U<sub>2</sub>+A&#x0160;,u&#x0161;bar<sub>3</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/UR2_TIMES_U2_PLUS_ASH.png'/>
+UR<sub>4</sub>,ur<sub>4</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/UR4.png'/>
+URI,uri	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/URI.png'/>
+URI<sub>3</sub>,urin,uru<sub>3</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/URI3.png'/>
+URU,eri,iri,re<sub>2</sub>,ri<sub>2</sub>,u<sub>19</sub>,uru	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/URU.png'/>
+URU&times;A,uru<sub>18</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/URU_TIMES_A.png'/>
+URU&times;BAR,UKKIN,unken	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/URU_TIMES_BAR.png'/>
+URU&times;GA,&#x0160;AKIR<sub>3</sub>,&#x0161;akir<sub>3</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/URU_TIMES_GA.png'/>
+URU&times;GAR,ERIM<sub>3</sub> and URU&times;NIG<sub>2</sub>,erim<sub>3</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/URU_TIMES_GAR.png'/>
+URU&times;GU,gur<sub>5</sub>,guru<sub>5</sub>,guru&#x0161;<sub>3</sub>,&#x0161;akir,&#x0161;eg<sub>x</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/URU_TIMES_GU.png'/>
+URU&times;IGI,ASARI,asal,asar,asari,silig	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/URU_TIMES_IGI.png'/>
+URU&times;MIN,GI&#x0160;GAL,&#x011D;i&#x0161;gal,u<sub>18</sub>,ulu<sub>3</sub>,uru<sub>17</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/URU_TIMES_MIN.png'/>
+URU&times;TU,&#x0161;eg<sub>5</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/URU_TIMES_TU.png'/>
+URU&times;UD,URU<sub>2</sub>,erim<sub>6</sub>,uru<sub>2</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/URU_TIMES_UD.png'/>
+URU&times;URUDA,BAN&#x0160;UR,ban&#x0161;ur,silig<sub>5</sub>,uru<sub>x</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/URU_TIMES_URUDA.png'/>
+URUDA,URUDU,dab<sub>6</sub>,urud	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/URUDA.png'/>
+U&#x0160;,&#x011D;i&#x0161;<sub>3</sub>,nita&#x1E2B;,us<sub>2</sub>,u&#x0161;	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/USH.png'/>
+U&#x0160;.BU.DA,ara&#x1E2B;<sub>x</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/USH.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/BU.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/DA.png'/>
+U&#x0160;.DAM,nitalam<sub>2</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/USH.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/DAM.png'/>
+U&#x0160;.GA,bungu	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/USH.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/GA.png'/>
+U&#x0160;.KU,gala	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/USH.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/KU.png'/>
+U&#x0160;.SAL.DAM,U&#x0160;.MUNUS.DAM,nitalam<sub>3</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/USH.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/SAL.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/DAM.png'/>
+U&#x0160;<sub>2</sub>,ug<sub>7</sub>,u&#x0161;<sub>2</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/USH2.png'/>
+U&#x0160;&times;A,KA&#x0160;<sub>3</sub>,ka&#x0161;<sub>3</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/USH_TIMES_A.png'/>
+U&#x0160;&times;TAK<sub>4</sub>,U&#x0160;&times;KID<sub>2</sub>,dan<sub>6</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/USH_TIMES_TAK4.png'/>
+UZ<sub>3</sub>,ud<sub>5</sub>,uz<sub>3</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/UZ3.png'/>
+UZU,uzu	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/UZU.png'/>
+ZA,sa<sub>3</sub>,za	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/ZA.png'/>
+ZA.DUN<sub>3</sub>gunu,ZA.GIN<sub>2</sub>,nir<sub>2</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/ZA.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/DUN3_GUNU.png'/>
+ZA.DUN<sub>3</sub>gunugunu,ZA.MIR,nir<sub>7</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/ZA.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/DUN3_GUNU_GUNU.png'/>
+ZA.GUL,GUG,gug	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/ZA.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/GUL.png'/>
+ZA.MU&#x0160;<sub>3</sub>,&#x0161;uba<sub>2</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/ZA.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/MUSH3.png'/>
+ZA.MU&#x0160;<sub>3</sub>.ABgunu,ZA.MU&#x0160;<sub>3</sub>.UNUG,zabalam<sub>2</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/ZA.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/MUSH3.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/AB_GUNU.png'/>
+ZA.MU&#x0160;<sub>3</sub>.DI,&#x1E2B;alba<sub>2</sub>,sed<sub>8</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/ZA.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/MUSH3.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/DI.png'/>
+ZA.MU&#x0160;<sub>3</sub>gunu,ZA.MU&#x0160;<sub>2</sub>,&#x0161;uba	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/ZA.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/MUSH3_GUNU.png'/>
+ZA.MU&#x0160;<sub>3</sub>gunu.ABgunu,ZA.MU&#x0160;<sub>2</sub>.UNUG,zabalam	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/ZA.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/MUSH3_GUNU.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/AB_GUNU.png'/>
+ZA.NIM,nir<sub>3</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/ZA.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/NIM.png'/>
+ZAtenu,AD<sub>4</sub>,ad<sub>4</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/ZA_TENU.png'/>
+ZADIM,zadim	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/ZADIM.png'/>
+ZAG,za<sub>3</sub>,zag,zak	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/ZAG.png'/>
+ZAG.AN,uzug	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/ZAG.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/AN.png'/>
+ZAG.HA,enkud	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/ZAG.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/HA.png'/>
+ZE<sub>2</sub>,ZI<sub>2</sub>,ze<sub>2</sub>,zi<sub>2</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/ZE2.png'/>
+ZI,se<sub>2</sub>,si<sub>2</sub>,&#x1E63;i<sub>2</sub>,ze,zi,zid,zig<sub>3</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/ZI.png'/>
+ZI/ZI	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/ZI_OVER_ZI.png'/>
+ZI/ZI.LAGAB,NUMUN<sub>2</sub>,numun<sub>2</sub>,&#x0161;ub<sub>5</sub>,zukum	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/ZI_OVER_ZI.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/LAGAB.png'/>
+ZI<sub>3</sub>,zid<sub>2</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/ZI3.png'/>
+ZIG,ZIK,&#x1E2B;a&#x0161;<sub>2</sub>,zib<sub>2</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/ZIG.png'/>
+ZU,su<sub>2</sub>,zu	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/ZU.png'/>
+ZU.AB,abzu	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/ZU.png'/><img src='http://etcsl.orinst.ox.ac.uk/edition2/png/AB.png'/>
+ZUM,&#x1E2B;a&#x0161;<sub>4</sub>,rig<sub>2</sub>,sum<sub>2</sub>,zum	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/ZUM.png'/>
+TWO.A&#x0160;,A&#x0160;.A&#x0160;,min<sub>5</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/TWO_ASH.png'/>
+ONE.BURU,BUR<sub>3</sub>gunu,BUR<sub>3</sub>gunu	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/ONE_BURU.png'/>
+THREE.DI&#x0160;,3,E&#x0160;<sub>5</sub>,e&#x0161;<sub>5</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/THREE_DISH.png'/>
+FOUR.DI&#x0160;,4,LIMMU<sub>5</sub>,limmu<sub>5</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/FOUR_DISH.png'/>
+FOUR.DI&#x0160;.VAR,LIMMU,limmu	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/FOUR_DISH_VAR.png'/>
+FIVE.DI&#x0160;,5,IA<sub>2</sub>,ia<sub>2</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/FIVE_DISH.png'/>
+EIGHT.DI&#x0160;,8,USSU,ussu	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/EIGHT_DISH.png'/>
+ONE.E&#x0160;E<sub>3</sub>,E&#x0160;E<sub>3</sub> and A&#x0160;+U,e&#x0161;e<sub>3</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/ONE_ESHE3.png'/>
+TWO.E&#x0160;E<sub>3</sub>,E&#x0160;E<sub>3</sub>/E&#x0160;E<sub>3</sub>,e&#x0161;e<sub>3</sub>/e&#x0161;e<sub>3</sub>	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/TWO_ESHE3.png'/>
+FIVE.U,NINNU,50,ninnu	<img src='http://etcsl.orinst.ox.ac.uk/edition2/png/FIVE_U.png'/>
